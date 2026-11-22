@@ -1,0 +1,23 @@
+artifact_path: /Users/minalghatge/Downloads/MS-BITS/Sem3/MLM/Lab6_Continuous_Retraining/mlruns/1/models/m-abd513fcfead4fe29253973ae3d6e600/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.17.2
+model_id: m-abd513fcfead4fe29253973ae3d6e600
+model_size_bytes: 6903
+model_uuid: m-abd513fcfead4fe29253973ae3d6e600
+prompts: null
+run_id: 58e5a44e167e4beface7729adc384b27
+utc_time_created: '2026-10-22 04:21:43.226631'

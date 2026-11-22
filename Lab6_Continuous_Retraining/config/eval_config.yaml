@@ -1,0 +1,13 @@
+eval_data:
+  path: data/eval_data.csv
+
+champion_challenger:
+  model_name: "credit_risk_model"
+  champion_stage: "Production"
+  # Challenger version will be passed via command line
+
+
+business_logic:
+  profit_correct_non_default: 10
+  loss_missed_default: -50
+  threshold: 30 # Binary threshold for profit calculation

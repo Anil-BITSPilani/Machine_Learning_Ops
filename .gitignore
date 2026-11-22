@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.h5
+Lab2_Model_inference/google_model/

@@ -1,0 +1,1001 @@
+id,task_type,prompt,prediction,inference_seconds
+1,Factual Q&A,Answer the following question: What is the capital of France?,l'île de l'île,0.05440729199926864
+2,Factual Q&A,Answer the following question: What is the capital of Germany?,berlin,0.018772875000649947
+3,Factual Q&A,Answer the following question: What is the capital of Japan?,yokohama,0.030547958000170183
+4,Factual Q&A,Answer the following question: What is the capital of Italy?,st. giorno,0.04524799999944662
+5,Factual Q&A,Answer the following question: What is the capital of Spain?,santos,0.028046625000570202
+6,Factual Q&A,Answer the following question: What is the capital of Canada?,san francisco,0.03254645800006983
+7,Factual Q&A,Answer the following question: What is the capital of Australia?,san juan,0.03243679200022598
+8,Factual Q&A,Answer the following question: What is the capital of Brazil?,san juan,0.032481041999744775
+9,Factual Q&A,Answer the following question: What is the capital of India?,sarajevo,0.03355250000004162
+10,Factual Q&A,Answer the following question: What is the capital of China?,shanghai,0.0331989579999572
+11,Factual Q&A,Answer the following question: What is the capital of Mexico?,el agua,0.04394012500051758
+12,Factual Q&A,Answer the following question: What is the capital of Egypt?,egypt,0.034811958000318555
+13,Factual Q&A,Answer the following question: What is the capital of South Africa?,sacramento,0.03431404200000543
+14,Factual Q&A,Answer the following question: What is the capital of Russia?,syria,0.033830040999419
+15,Factual Q&A,Answer the following question: What is the capital of South Korea?,shanghai,0.029482042000381625
+16,Factual Q&A,Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02919308299988188
+17,Factual Q&A,Answer the following question: What is the capital of Netherlands?,st ess,0.03681116700045095
+18,Factual Q&A,Answer the following question: What is the capital of Turkey?,sal,0.03273600000011356
+19,Factual Q&A,Answer the following question: What is the capital of Sweden?,sweden,0.02485774999968271
+20,Factual Q&A,Answer the following question: What is the capital of Norway?,st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st s,0.5135863329996937
+21,Translation (French),"Translate to French: Hello, how are you?","Hello, c'est-ce que vous êtes?",0.059795875000418164
+22,Translation (French),Translate to French: Thank you very much.,Merci beaucoup.,0.020891459000267787
+23,Translation (French),Translate to French: Where is the train station?, où est la station de train?,0.04778929199983395
+24,Translation (French),"Translate to French: Good morning, friend.","Good morning, ami.",0.03247712499978661
+25,Translation (French),Translate to French: What time is it?,Quel temps est?,0.024247416999969573
+26,Translation (French),Translate to French: I would like a coffee.,Je voudrais un latte.,0.04046304100029374
+27,Translation (French),Translate to French: Have a nice day!,Vous avez un jour à l'heure.,0.05900675000066258
+28,Translation (French),Translate to French: Nice to meet you.,Nice to meet you.,0.028504124999926717
+29,Translation (French),Translate to French: Where is the hotel?, où est la hôtel?,0.04387404199951561
+30,Translation (French),Translate to French: Can you help me?,Vous pouvez s'agir?,0.047709084000416624
+31,Translation (Spanish),"Translate to Spanish: Hello, how are you?",Por qué está?,0.04444970900021872
+32,Translation (Spanish),Translate to Spanish: Thank you very much.,Gracias muchos.,0.040412416999970446
+33,Translation (Spanish),Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06402433299990662
+34,Translation (Spanish),"Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.0363715420007793
+35,Translation (Spanish),Translate to Spanish: What time is it?,Qué hora es el momento?,0.0678198750001684
+36,Translation (Spanish),Translate to Spanish: I would like a coffee.,Quiero una comida.,0.044925583999429364
+37,Translation (Spanish),Translate to Spanish: Have a nice day!,Hay una gran da!,0.06386495900005684
+38,Translation (Spanish),Translate to Spanish: Nice to meet you.,Por qué acuerdo a tu amigo.,0.09104008299982524
+39,Translation (Spanish),Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05938604200036934
+40,Translation (Spanish),Translate to Spanish: Can you help me?,Cómo me ayudará?,0.06292791699979716
+41,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013287250000757922
+42,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013343291000637691
+43,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013458375000482192
+44,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013414332999673206
+45,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.01349904200014862
+46,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013008541999624867
+47,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013096833000417973
+48,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.01348658400002023
+49,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013467499999933352
+50,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013363750000280561
+51,Arithmetic,Variation 2: Solve this math problem: What is 5 plus 7?,5,0.013283666999996058
+52,Arithmetic,Variation 2: Solve this math problem: What is 12 minus 4?,0,0.017163458000140963
+53,Arithmetic,Variation 2: Solve this math problem: What is 3 times 6?,2,0.012634791999516892
+54,Arithmetic,Variation 2: Solve this math problem: What is 20 divided by 4?,0,0.017256832999919425
+55,Arithmetic,Variation 2: Solve this math problem: What is 15 plus 15?,2,0.013167666999834182
+56,Arithmetic,Variation 2: Solve this math problem: What is 50 minus 25?,0,0.01701562499965803
+57,Arithmetic,Variation 2: Solve this math problem: What is 8 times 7?,0,0.017351749999761523
+58,Arithmetic,Variation 2: Solve this math problem: What is 100 divided by 10?,0,0.017592582999895967
+59,Arithmetic,Variation 2: Solve this math problem: What is 9 plus 14?,0,0.017737916999976733
+60,Arithmetic,Variation 2: Solve this math problem: What is 45 minus 9?,0,0.017712083000333223
+61,Factual Q&A,Variation 2: Answer the following question: What is the capital of France?,,0.017375957999320235
+62,Factual Q&A,Variation 2: Answer the following question: What is the capital of Germany?,sterreich,0.021163458999581053
+63,Factual Q&A,Variation 2: Answer the following question: What is the capital of Japan?,,0.017463250000218977
+64,Factual Q&A,Variation 2: Answer the following question: What is the capital of Italy?,Italy,0.013974041000437865
+65,Factual Q&A,Variation 2: Answer the following question: What is the capital of Spain?,Madrid,0.013107416999446286
+66,Factual Q&A,Variation 2: Answer the following question: What is the capital of Canada?,Canada,0.013206999999965774
+67,Factual Q&A,Variation 2: Answer the following question: What is the capital of Australia?,,0.0175750420003169
+68,Factual Q&A,Variation 2: Answer the following question: What is the capital of Brazil?,Brazil,0.013869458999579365
+69,Factual Q&A,Variation 2: Answer the following question: What is the capital of India?,,0.01760941699922114
+70,Factual Q&A,Variation 2: Answer the following question: What is the capital of China?,,0.01730883299933339
+71,Factual Q&A,Variation 2: Answer the following question: What is the capital of Mexico?,Mexico City,0.0183971249998649
+72,Factual Q&A,Variation 2: Answer the following question: What is the capital of Egypt?,Egypt,0.012956874999872525
+73,Factual Q&A,Variation 2: Answer the following question: What is the capital of South Africa?,,0.01784579200011649
+74,Factual Q&A,Variation 2: Answer the following question: What is the capital of Russia?,,0.01788924999982555
+75,Factual Q&A,Variation 2: Answer the following question: What is the capital of South Korea?,,0.017367708000165294
+76,Factual Q&A,Variation 2: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02852279200033081
+77,Factual Q&A,Variation 2: Answer the following question: What is the capital of Netherlands?,Netherlands,0.014403709000362142
+78,Factual Q&A,Variation 2: Answer the following question: What is the capital of Turkey?,,0.018117249999704654
+79,Factual Q&A,Variation 2: Answer the following question: What is the capital of Sweden?,sweden,0.025697624999338586
+80,Factual Q&A,Variation 2: Answer the following question: What is the capital of Norway?,sl,0.030407959000513074
+81,Translation (French),"Variation 2: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.052697750000334054
+82,Translation (French),Variation 2: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.051773791999949026
+83,Translation (French),Variation 2: Translate to French: Where is the train station?, où est la station de train?,0.04906095800015464
+84,Translation (French),"Variation 2: Translate to French: Good morning, friend.","Good morning, ami.",0.03286000000025524
+85,Translation (French),Variation 2: Translate to French: What time is it?,Quelle temps est ?,0.028811332999794104
+86,Translation (French),Variation 2: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04071449999992183
+87,Translation (French),Variation 2: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047883582999929786
+88,Translation (French),Variation 2: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.059138375000657106
+89,Translation (French),Variation 2: Translate to French: Where is the hotel?,                                                               ,0.5158337080001729
+90,Translation (French),Variation 2: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04808266600048228
+91,Translation (Spanish),"Variation 2: Translate to Spanish: Hello, how are you?","Hi, cuál es tu?",0.06345175000024028
+92,Translation (Spanish),Variation 2: Translate to Spanish: Thank you very much.,Gracias muchos.,0.039904958000079205
+93,Translation (Spanish),Variation 2: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06302125000001979
+94,Translation (Spanish),"Variation 2: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03759100000024773
+95,Translation (Spanish),Variation 2: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06761345899940352
+96,Translation (Spanish),Variation 2: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04401945900008286
+97,Translation (Spanish),Variation 2: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06500725000023522
+98,Translation (Spanish),Variation 2: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.0721273339995605
+99,Translation (Spanish),Variation 2: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.059622624999974505
+100,Translation (Spanish),Variation 2: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05177658400043583
+101,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.01366791700002068
+102,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013634875000207103
+103,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013217541999438254
+104,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013674541000000318
+105,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013149458000043523
+106,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013721708999582916
+107,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013517082999896957
+108,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013504125000508793
+109,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013589250000222819
+110,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.01296162499966158
+111,Arithmetic,Variation 3: Solve this math problem: What is 5 plus 7?,5,0.013453583000227809
+112,Arithmetic,Variation 3: Solve this math problem: What is 12 minus 4?,0,0.01692258299954119
+113,Arithmetic,Variation 3: Solve this math problem: What is 3 times 6?,0,0.017234292000466667
+114,Arithmetic,Variation 3: Solve this math problem: What is 20 divided by 4?,0,0.017584291999810375
+115,Arithmetic,Variation 3: Solve this math problem: What is 15 plus 15?,0,0.018854041999475157
+116,Arithmetic,Variation 3: Solve this math problem: What is 50 minus 25?,0,0.018047790999844437
+117,Arithmetic,Variation 3: Solve this math problem: What is 8 times 7?,0,0.01746583299973281
+118,Arithmetic,Variation 3: Solve this math problem: What is 100 divided by 10?,0,0.01750270799948339
+119,Arithmetic,Variation 3: Solve this math problem: What is 9 plus 14?,0,0.017397333000189974
+120,Arithmetic,Variation 3: Solve this math problem: What is 45 minus 9?,0,0.01706858400029887
+121,Factual Q&A,Variation 3: Answer the following question: What is the capital of France?,,0.01743662500030041
+122,Factual Q&A,Variation 3: Answer the following question: What is the capital of Germany?,sterreich,0.020865417000095476
+123,Factual Q&A,Variation 3: Answer the following question: What is the capital of Japan?,,0.017609499999707623
+124,Factual Q&A,Variation 3: Answer the following question: What is the capital of Italy?,,0.01765783399969223
+125,Factual Q&A,Variation 3: Answer the following question: What is the capital of Spain?,ltima,0.02860441700067895
+126,Factual Q&A,Variation 3: Answer the following question: What is the capital of Canada?,Canada,0.01373554099973262
+127,Factual Q&A,Variation 3: Answer the following question: What is the capital of Australia?,april,0.025458125000113796
+128,Factual Q&A,Variation 3: Answer the following question: What is the capital of Brazil?,Brazil,0.01326404100018408
+129,Factual Q&A,Variation 3: Answer the following question: What is the capital of India?,,0.017436125000131142
+130,Factual Q&A,Variation 3: Answer the following question: What is the capital of China?,,0.01705491600023379
+131,Factual Q&A,Variation 3: Answer the following question: What is the capital of Mexico?,el salvador,0.0331472500001837
+132,Factual Q&A,Variation 3: Answer the following question: What is the capital of Egypt?,egypt,0.03354124999987107
+133,Factual Q&A,Variation 3: Answer the following question: What is the capital of South Africa?,sacramento,0.032653332999871054
+134,Factual Q&A,Variation 3: Answer the following question: What is the capital of Russia?,,0.017153165999843623
+135,Factual Q&A,Variation 3: Answer the following question: What is the capital of South Korea?,,0.017396917000041867
+136,Factual Q&A,Variation 3: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028888333000395505
+137,Factual Q&A,Variation 3: Answer the following question: What is the capital of Netherlands?,Netherlands,0.013642791999700421
+138,Factual Q&A,Variation 3: Answer the following question: What is the capital of Turkey?,,0.017467208999732975
+139,Factual Q&A,Variation 3: Answer the following question: What is the capital of Sweden?,sweden,0.02530891700007487
+140,Factual Q&A,Variation 3: Answer the following question: What is the capital of Norway?,sl,0.02894300000025396
+141,Translation (French),"Variation 3: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05208133399992221
+142,Translation (French),Variation 3: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05207366600006935
+143,Translation (French),Variation 3: Translate to French: Where is the train station?, où est la station de train?,0.0478610000000117
+144,Translation (French),"Variation 3: Translate to French: Good morning, friend.","Good morning, ami.",0.03275479199965048
+145,Translation (French),Variation 3: Translate to French: What time is it?,Quelle temps est ?,0.028530458000204817
+146,Translation (French),Variation 3: Translate to French: I would like a coffee.,Je voudrais un latte.,0.040819083000315004
+147,Translation (French),Variation 3: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.048039833000075305
+148,Translation (French),Variation 3: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.06017375000010361
+149,Translation (French),Variation 3: Translate to French: Where is the hotel?,                                                               ,0.5340161249996527
+150,Translation (French),Variation 3: Translate to French: Can you help me?,Vous pouvez s'agir?,0.055452374999731546
+151,Translation (Spanish),"Variation 4: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06728179200035811
+152,Translation (Spanish),Variation 4: Translate to Spanish: Thank you very much.,Gracias muchos.,0.040242874999421474
+153,Translation (Spanish),Variation 4: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06521312499990017
+154,Translation (Spanish),"Variation 4: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03861595800026407
+155,Translation (Spanish),Variation 4: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06940745799965953
+156,Translation (Spanish),Variation 4: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.046478958999614406
+157,Translation (Spanish),Variation 4: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06622691699976713
+158,Translation (Spanish),Variation 4: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07323100000030536
+159,Translation (Spanish),Variation 4: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.0630320420004864
+160,Translation (Spanish),Variation 4: Translate to Spanish: Can you help me?,Cómo me ayudará?,0.06858745799945609
+161,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.014984916999310371
+162,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.01444145900040894
+163,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.014199416999872483
+164,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013613833000817976
+165,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.0131824999998571
+166,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.012954916999660782
+167,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.01332650000040303
+168,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013178041000173835
+169,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013210624999373977
+170,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.0129917079993902
+171,Arithmetic,Variation 4: Solve this math problem: What is 5 plus 7?,5,0.012763374999849475
+172,Arithmetic,Variation 4: Solve this math problem: What is 12 minus 4?,0,0.016864250000253378
+173,Arithmetic,Variation 4: Solve this math problem: What is 3 times 6?,0,0.016761958999268245
+174,Arithmetic,Variation 4: Solve this math problem: What is 20 divided by 4?,0,0.016821166999761772
+175,Arithmetic,Variation 4: Solve this math problem: What is 15 plus 15?,5,0.013061040999673423
+176,Arithmetic,Variation 4: Solve this math problem: What is 50 minus 25?,0,0.01702529100020911
+177,Arithmetic,Variation 4: Solve this math problem: What is 8 times 7?,0,0.01678749999973661
+178,Arithmetic,Variation 4: Solve this math problem: What is 100 divided by 10?,0,0.01711241599969071
+179,Arithmetic,Variation 4: Solve this math problem: What is 9 plus 14?,0,0.01696066700060328
+180,Arithmetic,Variation 4: Solve this math problem: What is 45 minus 9?,0,0.016769874999226886
+181,Factual Q&A,Variation 4: Answer the following question: What is the capital of France?,,0.016722749999644293
+182,Factual Q&A,Variation 4: Answer the following question: What is the capital of Germany?,sterreich,0.020633916999940993
+183,Factual Q&A,Variation 4: Answer the following question: What is the capital of Japan?,,0.016844374999891443
+184,Factual Q&A,Variation 4: Answer the following question: What is the capital of Italy?,Italy,0.012721166999654088
+185,Factual Q&A,Variation 4: Answer the following question: What is the capital of Spain?,Madrid,0.0143714590003583
+186,Factual Q&A,Variation 4: Answer the following question: What is the capital of Canada?,Canada,0.013319167000190646
+187,Factual Q&A,Variation 4: Answer the following question: What is the capital of Australia?,,0.01780879099987942
+188,Factual Q&A,Variation 4: Answer the following question: What is the capital of Brazil?,Brazil,0.013756166999883135
+189,Factual Q&A,Variation 4: Answer the following question: What is the capital of India?,,0.017371832999742765
+190,Factual Q&A,Variation 4: Answer the following question: What is the capital of China?,,0.01720445800037851
+191,Factual Q&A,Variation 4: Answer the following question: What is the capital of Mexico?,cómo,0.032723416999942856
+192,Factual Q&A,Variation 4: Answer the following question: What is the capital of Egypt?,egypt,0.0335901250000461
+193,Factual Q&A,Variation 4: Answer the following question: What is the capital of South Africa?,,0.017653916999734065
+194,Factual Q&A,Variation 4: Answer the following question: What is the capital of Russia?,,0.01752966700041725
+195,Factual Q&A,Variation 4: Answer the following question: What is the capital of South Korea?,,0.016956415999629826
+196,Factual Q&A,Variation 4: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028350124999633408
+197,Factual Q&A,Variation 4: Answer the following question: What is the capital of Netherlands?,Netherlands,0.013059165999948164
+198,Factual Q&A,Variation 4: Answer the following question: What is the capital of Turkey?,,0.016850083999997878
+199,Factual Q&A,Variation 4: Answer the following question: What is the capital of Sweden?,sweden,0.024139082999681705
+200,Factual Q&A,Variation 4: Answer the following question: What is the capital of Norway?,sl,0.028150457999799983
+201,Translation (French),"Variation 5: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05305845900056738
+202,Translation (French),Variation 5: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.050998041000639205
+203,Translation (French),Variation 5: Translate to French: Where is the train station?,                                                               ,0.5027200840004298
+204,Translation (French),"Variation 5: Translate to French: Good morning, friend.","Good morning, ami.",0.031621417000678775
+205,Translation (French),Variation 5: Translate to French: What time is it?,Quelle temps est ?,0.027732457999263715
+206,Translation (French),Variation 5: Translate to French: I would like a coffee.,Je voudrais un latte.,0.03986524999982066
+207,Translation (French),Variation 5: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04627979199995025
+208,Translation (French),Variation 5: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.0582445000000007
+209,Translation (French),Variation 5: Translate to French: Where is the hotel?,                                                               ,0.5105649170000106
+210,Translation (French),Variation 5: Translate to French: Can you help me?,Vous pouvez s'agir?,0.0464765830001852
+211,Translation (Spanish),"Variation 5: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.0656325840000136
+212,Translation (Spanish),Variation 5: Translate to Spanish: Thank you very much.,Gracias muchos.,0.03942216599989479
+213,Translation (Spanish),Variation 5: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06199279100019339
+214,Translation (Spanish),"Variation 5: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03622520800036
+215,Translation (Spanish),Variation 5: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.0655180419998942
+216,Translation (Spanish),Variation 5: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04275766699993255
+217,Translation (Spanish),Variation 5: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06180491700069979
+218,Translation (Spanish),Variation 5: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.06921245800003817
+219,Translation (Spanish),Variation 5: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05801495800005796
+220,Translation (Spanish),Variation 5: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.050767000000632834
+221,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013534165999772085
+222,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013830082999447768
+223,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013721457999963604
+224,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013641040999573306
+225,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013645125000039116
+226,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013574041000538273
+227,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013021124999795575
+228,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013408082999376347
+229,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013179124999624037
+230,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013242957999864302
+231,Arithmetic,Variation 5: Solve this math problem: What is 5 plus 7?,5,0.013043334000030882
+232,Arithmetic,Variation 5: Solve this math problem: What is 12 minus 4?,0,0.01683950000006007
+233,Arithmetic,Variation 5: Solve this math problem: What is 3 times 6?,0,0.016889583000192943
+234,Arithmetic,Variation 5: Solve this math problem: What is 20 divided by 4?,0,0.01685191699925781
+235,Arithmetic,Variation 5: Solve this math problem: What is 15 plus 15?,5,0.01279754199913441
+236,Arithmetic,Variation 5: Solve this math problem: What is 50 minus 25?,0,0.016850082999553706
+237,Arithmetic,Variation 5: Solve this math problem: What is 8 times 7?,0,0.016680541999448906
+238,Arithmetic,Variation 5: Solve this math problem: What is 100 divided by 10?,0,0.016734249999899475
+239,Arithmetic,Variation 5: Solve this math problem: What is 9 plus 14?,0,0.016841708999891125
+240,Arithmetic,Variation 5: Solve this math problem: What is 45 minus 9?,0,0.016849915999955556
+241,Factual Q&A,Variation 5: Answer the following question: What is the capital of France?,,0.016567249999752676
+242,Factual Q&A,Variation 5: Answer the following question: What is the capital of Germany?,sterreich,0.02085804200032726
+243,Factual Q&A,Variation 5: Answer the following question: What is the capital of Japan?,,0.016821166999761772
+244,Factual Q&A,Variation 5: Answer the following question: What is the capital of Italy?,,0.0168638329996611
+245,Factual Q&A,Variation 5: Answer the following question: What is the capital of Spain?,ltima,0.027873916000316967
+246,Factual Q&A,Variation 5: Answer the following question: What is the capital of Canada?,Canada,0.013002707999476115
+247,Factual Q&A,Variation 5: Answer the following question: What is the capital of Australia?,,0.016666999999870313
+248,Factual Q&A,Variation 5: Answer the following question: What is the capital of Brazil?,Brazil,0.013099624999995285
+249,Factual Q&A,Variation 5: Answer the following question: What is the capital of India?,,0.016670125000018743
+250,Factual Q&A,Variation 5: Answer the following question: What is the capital of China?,,0.016855709000083152
+251,Factual Q&A,Variation 6: Answer the following question: What is the capital of Mexico?,cómo,0.03514924999944924
+252,Factual Q&A,Variation 6: Answer the following question: What is the capital of Egypt?,egypt,0.034737291999590525
+253,Factual Q&A,Variation 6: Answer the following question: What is the capital of South Africa?,sacramento,0.033780832999582344
+254,Factual Q&A,Variation 6: Answer the following question: What is the capital of Russia?,аар,0.03468404199975339
+255,Factual Q&A,Variation 6: Answer the following question: What is the capital of South Korea?,,0.019492499999614665
+256,Factual Q&A,Variation 6: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.030132124999909138
+257,Factual Q&A,Variation 6: Answer the following question: What is the capital of Netherlands?,Netherlands,0.015371250000498549
+258,Factual Q&A,Variation 6: Answer the following question: What is the capital of Turkey?,,0.018629292000696296
+259,Factual Q&A,Variation 6: Answer the following question: What is the capital of Sweden?,sweden,0.025842375000138418
+260,Factual Q&A,Variation 6: Answer the following question: What is the capital of Norway?,sl,0.03488808299971424
+261,Translation (French),"Variation 6: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.07062887499978387
+262,Translation (French),Variation 6: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05270487500001764
+263,Translation (French),Variation 6: Translate to French: Where is the train station?, où est la station de train?,0.04835041699971043
+264,Translation (French),"Variation 6: Translate to French: Good morning, friend.","Good morning, ami.",0.03258716700020159
+265,Translation (French),Variation 6: Translate to French: What time is it?,Quelle temps est ?,0.028928208000252198
+266,Translation (French),Variation 6: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04179479100002936
+267,Translation (French),Variation 6: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.051061207999737235
+268,Translation (French),Variation 6: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.05996316600067075
+269,Translation (French),Variation 6: Translate to French: Where is the hotel?,                                                               ,0.5153247080006622
+270,Translation (French),Variation 6: Translate to French: Can you help me?,Vous pouvez s'agir?,0.05023920799976622
+271,Translation (Spanish),"Variation 6: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06969370800015895
+272,Translation (Spanish),Variation 6: Translate to Spanish: Thank you very much.,Gracias muchos.,0.04067120800027624
+273,Translation (Spanish),Variation 6: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06418945799941866
+274,Translation (Spanish),"Variation 6: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.036598707999473845
+275,Translation (Spanish),Variation 6: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06770254200000636
+276,Translation (Spanish),Variation 6: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04468825000003562
+277,Translation (Spanish),Variation 6: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06558779099941603
+278,Translation (Spanish),Variation 6: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07110150000062276
+279,Translation (Spanish),Variation 6: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.06189283300045645
+280,Translation (Spanish),Variation 6: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.052816207999967446
+281,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013762417000179994
+282,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013840458000231592
+283,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013291624999510532
+284,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.014582042000256479
+285,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.014608792000217363
+286,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.01421470799959934
+287,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013717292000364978
+288,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013577041000644385
+289,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013502582999535662
+290,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013325625000106811
+291,Arithmetic,Variation 6: Solve this math problem: What is 5 plus 7?,5,0.013536957999349397
+292,Arithmetic,Variation 6: Solve this math problem: What is 12 minus 4?,0,0.017441875000258733
+293,Arithmetic,Variation 6: Solve this math problem: What is 3 times 6?,0,0.017036999999618274
+294,Arithmetic,Variation 6: Solve this math problem: What is 20 divided by 4?,0,0.017275917000006302
+295,Arithmetic,Variation 6: Solve this math problem: What is 15 plus 15?,0,0.01742079200084845
+296,Arithmetic,Variation 6: Solve this math problem: What is 50 minus 25?,0,0.017417582999769365
+297,Arithmetic,Variation 6: Solve this math problem: What is 8 times 7?,0,0.01736312499997439
+298,Arithmetic,Variation 6: Solve this math problem: What is 100 divided by 10?,0,0.01767216699954588
+299,Arithmetic,Variation 6: Solve this math problem: What is 9 plus 14?,0,0.01744200000030105
+300,Arithmetic,Variation 6: Solve this math problem: What is 45 minus 9?,0,0.01742662500055303
+301,Factual Q&A,Variation 7: Answer the following question: What is the capital of France?,,0.017351832999338512
+302,Factual Q&A,Variation 7: Answer the following question: What is the capital of Germany?,sterreich,0.0210205829998813
+303,Factual Q&A,Variation 7: Answer the following question: What is the capital of Japan?,,0.017216415999428136
+304,Factual Q&A,Variation 7: Answer the following question: What is the capital of Italy?,,0.017210791999787034
+305,Factual Q&A,Variation 7: Answer the following question: What is the capital of Spain?,ltima,0.0290959580006529
+306,Factual Q&A,Variation 7: Answer the following question: What is the capital of Canada?,Canada,0.013483708000421757
+307,Factual Q&A,Variation 7: Answer the following question: What is the capital of Australia?,sydney,0.028397457999744802
+308,Factual Q&A,Variation 7: Answer the following question: What is the capital of Brazil?,Brazil,0.013519416999770328
+309,Factual Q&A,Variation 7: Answer the following question: What is the capital of India?,,0.01726383299956069
+310,Factual Q&A,Variation 7: Answer the following question: What is the capital of China?,,0.01721133400042163
+311,Factual Q&A,Variation 7: Answer the following question: What is the capital of Mexico?,el salvador,0.03388737499972194
+312,Factual Q&A,Variation 7: Answer the following question: What is the capital of Egypt?,egypt,0.03388958300001832
+313,Factual Q&A,Variation 7: Answer the following question: What is the capital of South Africa?,sacramento,0.033678374999908556
+314,Factual Q&A,Variation 7: Answer the following question: What is the capital of Russia?,,0.017602708000595158
+315,Factual Q&A,Variation 7: Answer the following question: What is the capital of South Korea?,,0.01752454100005707
+316,Factual Q&A,Variation 7: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02909620900027221
+317,Factual Q&A,Variation 7: Answer the following question: What is the capital of Netherlands?,Netherlands,0.013527458999305964
+318,Factual Q&A,Variation 7: Answer the following question: What is the capital of Turkey?,,0.017194666999785113
+319,Factual Q&A,Variation 7: Answer the following question: What is the capital of Sweden?,sweden,0.025498875000266708
+320,Factual Q&A,Variation 7: Answer the following question: What is the capital of Norway?,sl,0.028450332999454986
+321,Translation (French),"Variation 7: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05221279199940909
+322,Translation (French),Variation 7: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.0528217080000104
+323,Translation (French),Variation 7: Translate to French: Where is the train station?, où est la station de train?,0.04964437499984342
+324,Translation (French),"Variation 7: Translate to French: Good morning, friend.","Good morning, ami.",0.03363604199967085
+325,Translation (French),Variation 7: Translate to French: What time is it?,Quelle temps est ?,0.028390083999511262
+326,Translation (French),Variation 7: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04089341700000659
+327,Translation (French),Variation 7: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.048198625000623
+328,Translation (French),Variation 7: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.05970783299926552
+329,Translation (French),Variation 7: Translate to French: Where is the hotel?,                                                               ,0.5207920000002559
+330,Translation (French),Variation 7: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04799950000051467
+331,Translation (Spanish),"Variation 7: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06781958299961843
+332,Translation (Spanish),Variation 7: Translate to Spanish: Thank you very much.,Gracias muchos.,0.04032699999970646
+333,Translation (Spanish),Variation 7: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06477883300067333
+334,Translation (Spanish),"Variation 7: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.036181999999826076
+335,Translation (Spanish),Variation 7: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06728204200044274
+336,Translation (Spanish),Variation 7: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.044574375000593136
+337,Translation (Spanish),Variation 7: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06403787499948521
+338,Translation (Spanish),Variation 7: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07147558300039236
+339,Translation (Spanish),Variation 7: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05961408299936011
+340,Translation (Spanish),Variation 7: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05404570800055808
+341,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013734166000176629
+342,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.01344062499993015
+343,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013849291000042285
+344,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.01436279200061108
+345,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.014299250000476604
+346,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.014159583000036946
+347,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013874167000722082
+348,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.01342449999992823
+349,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013345165999453457
+350,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013663333999829774
+351,Arithmetic,Variation 8: Solve this math problem: What is 5 plus 7?,5,0.013551916000324127
+352,Arithmetic,Variation 8: Solve this math problem: What is 12 minus 4?,0,0.01736620799965749
+353,Arithmetic,Variation 8: Solve this math problem: What is 3 times 6?,0,0.01740670900016994
+354,Arithmetic,Variation 8: Solve this math problem: What is 20 divided by 4?,0,0.01726200000030076
+355,Arithmetic,Variation 8: Solve this math problem: What is 15 plus 15?,0,0.017272333000619255
+356,Arithmetic,Variation 8: Solve this math problem: What is 50 minus 25?,0,0.017243000000235043
+357,Arithmetic,Variation 8: Solve this math problem: What is 8 times 7?,0,0.01731625000047643
+358,Arithmetic,Variation 8: Solve this math problem: What is 100 divided by 10?,0,0.017444082999645616
+359,Arithmetic,Variation 8: Solve this math problem: What is 9 plus 14?,0,0.01740170799985208
+360,Arithmetic,Variation 8: Solve this math problem: What is 45 minus 9?,0,0.017452790999413992
+361,Factual Q&A,Variation 8: Answer the following question: What is the capital of France?,,0.017327790999843273
+362,Factual Q&A,Variation 8: Answer the following question: What is the capital of Germany?,sterreich,0.021527207999497477
+363,Factual Q&A,Variation 8: Answer the following question: What is the capital of Japan?,,0.017386165999596415
+364,Factual Q&A,Variation 8: Answer the following question: What is the capital of Italy?,st. giorno,0.0442998329999682
+365,Factual Q&A,Variation 8: Answer the following question: What is the capital of Spain?,ltima,0.028623791000427445
+366,Factual Q&A,Variation 8: Answer the following question: What is the capital of Canada?,Canada,0.013560791000600148
+367,Factual Q&A,Variation 8: Answer the following question: What is the capital of Australia?,sydney,0.02928799999972398
+368,Factual Q&A,Variation 8: Answer the following question: What is the capital of Brazil?,Brazil,0.013507708000361163
+369,Factual Q&A,Variation 8: Answer the following question: What is the capital of India?,,0.017061624999769265
+370,Factual Q&A,Variation 8: Answer the following question: What is the capital of China?,,0.017190874999869266
+371,Factual Q&A,Variation 8: Answer the following question: What is the capital of Mexico?,el agua,0.03623008300019137
+372,Factual Q&A,Variation 8: Answer the following question: What is the capital of Egypt?,egypt,0.03542399999969348
+373,Factual Q&A,Variation 8: Answer the following question: What is the capital of South Africa?,sacramento,0.03365266599939787
+374,Factual Q&A,Variation 8: Answer the following question: What is the capital of Russia?,аар,0.03201325000009092
+375,Factual Q&A,Variation 8: Answer the following question: What is the capital of South Korea?,,0.016955749999397085
+376,Factual Q&A,Variation 8: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02834683299988683
+377,Factual Q&A,Variation 8: Answer the following question: What is the capital of Netherlands?,Netherlands,0.012978291999388603
+378,Factual Q&A,Variation 8: Answer the following question: What is the capital of Turkey?,stanbul,0.026702000000113912
+379,Factual Q&A,Variation 8: Answer the following question: What is the capital of Sweden?,sweden,0.025839208000434155
+380,Factual Q&A,Variation 8: Answer the following question: What is the capital of Norway?,sl,0.028056375000232947
+381,Translation (French),"Variation 8: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05012429099951987
+382,Translation (French),Variation 8: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.050163791999693785
+383,Translation (French),Variation 8: Translate to French: Where is the train station?,                                                               ,0.4976141249999273
+384,Translation (French),"Variation 8: Translate to French: Good morning, friend.",                                                               ,0.49525516699941363
+385,Translation (French),Variation 8: Translate to French: What time is it?,Quelle temps est ?,0.02809004200025811
+386,Translation (French),Variation 8: Translate to French: I would like a coffee.,Je voudrais un latte.,0.03883175000009942
+387,Translation (French),Variation 8: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04652420799993706
+388,Translation (French),Variation 8: Translate to French: Nice to meet you.,                                                               ,0.4938828750000539
+389,Translation (French),Variation 8: Translate to French: Where is the hotel?,                                                               ,0.4948859169999196
+390,Translation (French),Variation 8: Translate to French: Can you help me?,Vous pouvez s'agir?,0.046514083000147366
+391,Translation (Spanish),"Variation 8: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06483745900004578
+392,Translation (Spanish),Variation 8: Translate to Spanish: Thank you very much.,El gran grato.,0.035280667000733956
+393,Translation (Spanish),Variation 8: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06129495799996221
+394,Translation (Spanish),"Variation 8: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03534424999998009
+395,Translation (Spanish),Variation 8: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06507108400001016
+396,Translation (Spanish),Variation 8: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04267570800038811
+397,Translation (Spanish),Variation 8: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06124325000018871
+398,Translation (Spanish),Variation 8: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.06867495899950882
+399,Translation (Spanish),Variation 8: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.057702499999322754
+400,Translation (Spanish),Variation 8: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05009716600034153
+401,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.01291345900062879
+402,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013562624999394757
+403,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013155957999515522
+404,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013401291999798559
+405,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013145166999493085
+406,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.012813457999982347
+407,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013152374999663152
+408,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.012954916999660782
+409,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013119541000378376
+410,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.01300849999915954
+411,Arithmetic,Variation 9: Solve this math problem: What is 5 plus 7?,5,0.012767250000251806
+412,Arithmetic,Variation 9: Solve this math problem: What is 12 minus 4?,0,0.01681533400005719
+413,Arithmetic,Variation 9: Solve this math problem: What is 3 times 6?,0,0.016769458000453596
+414,Arithmetic,Variation 9: Solve this math problem: What is 20 divided by 4?,0,0.016812083000331768
+415,Arithmetic,Variation 9: Solve this math problem: What is 15 plus 15?,0,0.017057000000022526
+416,Arithmetic,Variation 9: Solve this math problem: What is 50 minus 25?,0,0.017785792000722722
+417,Arithmetic,Variation 9: Solve this math problem: What is 8 times 7?,0,0.018282166999597393
+418,Arithmetic,Variation 9: Solve this math problem: What is 100 divided by 10?,0,0.017850249999355583
+419,Arithmetic,Variation 9: Solve this math problem: What is 9 plus 14?,0,0.016795499999716412
+420,Arithmetic,Variation 9: Solve this math problem: What is 45 minus 9?,0,0.016666958999849157
+421,Factual Q&A,Variation 9: Answer the following question: What is the capital of France?,l'ondre,0.03169716599950334
+422,Factual Q&A,Variation 9: Answer the following question: What is the capital of Germany?,berlin,0.016876249999768334
+423,Factual Q&A,Variation 9: Answer the following question: What is the capital of Japan?,,0.016743291999773646
+424,Factual Q&A,Variation 9: Answer the following question: What is the capital of Italy?,st. giorno,0.04256183300003613
+425,Factual Q&A,Variation 9: Answer the following question: What is the capital of Spain?,ltima,0.02802412499931961
+426,Factual Q&A,Variation 9: Answer the following question: What is the capital of Canada?,Canada,0.01310920800005988
+427,Factual Q&A,Variation 9: Answer the following question: What is the capital of Australia?,sydney,0.027747416000238445
+428,Factual Q&A,Variation 9: Answer the following question: What is the capital of Brazil?,Brazil,0.01308370799961267
+429,Factual Q&A,Variation 9: Answer the following question: What is the capital of India?,,0.016537917000277957
+430,Factual Q&A,Variation 9: Answer the following question: What is the capital of China?,,0.016685708000295563
+431,Factual Q&A,Variation 9: Answer the following question: What is the capital of Mexico?,el agua,0.035449625000183005
+432,Factual Q&A,Variation 9: Answer the following question: What is the capital of Egypt?,egypt,0.031686583000009705
+433,Factual Q&A,Variation 9: Answer the following question: What is the capital of South Africa?,sacramento,0.03160483300052874
+434,Factual Q&A,Variation 9: Answer the following question: What is the capital of Russia?,аар,0.031823125000300934
+435,Factual Q&A,Variation 9: Answer the following question: What is the capital of South Korea?,shanghai,0.028226291999999376
+436,Factual Q&A,Variation 9: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02781058300024597
+437,Factual Q&A,Variation 9: Answer the following question: What is the capital of Netherlands?,Netherlands,0.01315412500025559
+438,Factual Q&A,Variation 9: Answer the following question: What is the capital of Turkey?,stanbul,0.02432283300004201
+439,Factual Q&A,Variation 9: Answer the following question: What is the capital of Sweden?,sweden,0.024120125000081316
+440,Factual Q&A,Variation 9: Answer the following question: What is the capital of Norway?,st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st s,0.4971629159999793
+441,Translation (French),"Variation 9: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.050194583000120474
+442,Translation (French),Variation 9: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05026233399985358
+443,Translation (French),Variation 9: Translate to French: Where is the train station?, où est la station de train?,0.04644562500016036
+444,Translation (French),"Variation 9: Translate to French: Good morning, friend.","Good morning, ami.",0.03160866700000042
+445,Translation (French),Variation 9: Translate to French: What time is it?,Quelle temps est ?,0.027798249999250402
+446,Translation (French),Variation 9: Translate to French: I would like a coffee.,Je voudrais un latte.,0.03941904200019053
+447,Translation (French),Variation 9: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04622412499975326
+448,Translation (French),Variation 9: Translate to French: Nice to meet you.,                                                               ,0.49577325000063865
+449,Translation (French),Variation 9: Translate to French: Where is the hotel?,                                                               ,0.49542229100006807
+450,Translation (French),Variation 9: Translate to French: Can you help me?,Vous pouvez s'agir?,0.046915082999476
+451,Translation (Spanish),"Variation 10: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06516404199919634
+452,Translation (Spanish),Variation 10: Translate to Spanish: Thank you very much.,Gracias muchos.,0.03885191700010182
+453,Translation (Spanish),Variation 10: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06126662499991653
+454,Translation (Spanish),"Variation 10: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03532150000046386
+455,Translation (Spanish),Variation 10: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06525433299975703
+456,Translation (Spanish),Variation 10: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04262070799995854
+457,Translation (Spanish),Variation 10: Translate to Spanish: Have a nice day!,Hay una gran da!,0.061264500000106636
+458,Translation (Spanish),Variation 10: Translate to Spanish: Nice to meet you.,Por qué acontecemos a tu amigo.,0.08711645899984433
+459,Translation (Spanish),Variation 10: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.058223042000463465
+460,Translation (Spanish),Variation 10: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05025441699945077
+461,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013302291000400146
+462,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013053292000222427
+463,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.01324883300003421
+464,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.01332212499983143
+465,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013162125000235392
+466,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013059208999948169
+467,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.012740041999677487
+468,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013412917000096058
+469,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013216083999395778
+470,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013197333000789513
+471,Arithmetic,Variation 10: Solve this math problem: What is 5 plus 7?,5,0.013007833999836294
+472,Arithmetic,Variation 10: Solve this math problem: What is 12 minus 4?,0,0.016692582999894512
+473,Arithmetic,Variation 10: Solve this math problem: What is 3 times 6?,0,0.016583874999923864
+474,Arithmetic,Variation 10: Solve this math problem: What is 20 divided by 4?,0,0.016708332999769482
+475,Arithmetic,Variation 10: Solve this math problem: What is 15 plus 15?,0,0.01674741700026061
+476,Arithmetic,Variation 10: Solve this math problem: What is 50 minus 25?,0,0.016715457999453065
+477,Arithmetic,Variation 10: Solve this math problem: What is 8 times 7?,0,0.016640667000501708
+478,Arithmetic,Variation 10: Solve this math problem: What is 100 divided by 10?,0,0.016661958999975468
+479,Arithmetic,Variation 10: Solve this math problem: What is 9 plus 14?,0,0.01661441600026592
+480,Arithmetic,Variation 10: Solve this math problem: What is 45 minus 9?,0,0.016749624999647494
+481,Factual Q&A,Variation 10: Answer the following question: What is the capital of France?,,0.016878750000614673
+482,Factual Q&A,Variation 10: Answer the following question: What is the capital of Germany?,berlin,0.016926249999414722
+483,Factual Q&A,Variation 10: Answer the following question: What is the capital of Japan?,,0.016718584000045666
+484,Factual Q&A,Variation 10: Answer the following question: What is the capital of Italy?,rome,0.016741458000069542
+485,Factual Q&A,Variation 10: Answer the following question: What is the capital of Spain?,ltima,0.027595375000601052
+486,Factual Q&A,Variation 10: Answer the following question: What is the capital of Canada?,Canada,0.013147958000445215
+487,Factual Q&A,Variation 10: Answer the following question: What is the capital of Australia?,sydney,0.027965708000010636
+488,Factual Q&A,Variation 10: Answer the following question: What is the capital of Brazil?,Brazil,0.012960875000317174
+489,Factual Q&A,Variation 10: Answer the following question: What is the capital of India?,,0.016590291999818874
+490,Factual Q&A,Variation 10: Answer the following question: What is the capital of China?,,0.016664083000250685
+491,Factual Q&A,Variation 10: Answer the following question: What is the capital of Mexico?,el salvador,0.03175912500046252
+492,Factual Q&A,Variation 10: Answer the following question: What is the capital of Egypt?,egypt,0.0312982909999846
+493,Factual Q&A,Variation 10: Answer the following question: What is the capital of South Africa?,sacramento,0.0315495410004587
+494,Factual Q&A,Variation 10: Answer the following question: What is the capital of Russia?,аар,0.03177887499987264
+495,Factual Q&A,Variation 10: Answer the following question: What is the capital of South Korea?,shanghai,0.028215874999659718
+496,Factual Q&A,Variation 10: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028145790999587916
+497,Factual Q&A,Variation 10: Answer the following question: What is the capital of Netherlands?,Netherlands,0.0127810000003592
+498,Factual Q&A,Variation 10: Answer the following question: What is the capital of Turkey?,stanbul,0.02437937500053522
+499,Factual Q&A,Variation 10: Answer the following question: What is the capital of Sweden?,sweden,0.024136750000252505
+500,Factual Q&A,Variation 10: Answer the following question: What is the capital of Norway?,sl,0.02793933399971138
+501,Translation (French),"Variation 11: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.04998029099988344
+502,Translation (French),Variation 11: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05061724999995931
+503,Translation (French),Variation 11: Translate to French: Where is the train station?, où est la station de train?,0.04639237500032323
+504,Translation (French),"Variation 11: Translate to French: Good morning, friend.","Good morning, ami.",0.03168833299969265
+505,Translation (French),Variation 11: Translate to French: What time is it?,Quelle temps est ?,0.028143791999355017
+506,Translation (French),Variation 11: Translate to French: I would like a coffee.,Je voudrais un latte.,0.040707375000238244
+507,Translation (French),Variation 11: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.0482601670000804
+508,Translation (French),Variation 11: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.057826666999972076
+509,Translation (French),Variation 11: Translate to French: Where is the hotel?,                                                               ,0.495801584000219
+510,Translation (French),Variation 11: Translate to French: Can you help me?,Cant j'ai l'aide?,0.05413645800035738
+511,Translation (Spanish),"Variation 11: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06505433300026198
+512,Translation (Spanish),Variation 11: Translate to Spanish: Thank you very much.,El gran grato.,0.035455084000204806
+513,Translation (Spanish),Variation 11: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.061322458000176994
+514,Translation (Spanish),"Variation 11: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03545204200054286
+515,Translation (Spanish),Variation 11: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06504433400004928
+516,Translation (Spanish),Variation 11: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04306629100028658
+517,Translation (Spanish),Variation 11: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06199516700053209
+518,Translation (Spanish),Variation 11: Translate to Spanish: Nice to meet you.,Por qué acontecemos a tu amigo.,0.08766095899954962
+519,Translation (Spanish),Variation 11: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05750945799991314
+520,Translation (Spanish),Variation 11: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.050032582999847364
+521,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013310500000443426
+522,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013431499999569496
+523,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.01309674999993149
+524,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.012896750000436441
+525,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013209292000283313
+526,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013047374999587191
+527,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013287875000060012
+528,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013156874999367574
+529,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.0129296670002077
+530,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.01322270800028491
+531,Arithmetic,Variation 11: Solve this math problem: What is 5 plus 7?,5,0.012888083999314404
+532,Arithmetic,Variation 11: Solve this math problem: What is 12 minus 4?,0,0.01669008400040184
+533,Arithmetic,Variation 11: Solve this math problem: What is 3 times 6?,0,0.016673458000695973
+534,Arithmetic,Variation 11: Solve this math problem: What is 20 divided by 4?,0,0.016900124999665422
+535,Arithmetic,Variation 11: Solve this math problem: What is 15 plus 15?,0,0.01691316599954007
+536,Arithmetic,Variation 11: Solve this math problem: What is 50 minus 25?,0,0.016764916000283847
+537,Arithmetic,Variation 11: Solve this math problem: What is 8 times 7?,0,0.01661995799986471
+538,Arithmetic,Variation 11: Solve this math problem: What is 100 divided by 10?,0,0.016636625000501226
+539,Arithmetic,Variation 11: Solve this math problem: What is 9 plus 14?,0,0.016542542000024696
+540,Arithmetic,Variation 11: Solve this math problem: What is 45 minus 9?,0,0.016739165999752004
+541,Factual Q&A,Variation 11: Answer the following question: What is the capital of France?,franc,0.020406042000104208
+542,Factual Q&A,Variation 11: Answer the following question: What is the capital of Germany?,berlin,0.01684300000033545
+543,Factual Q&A,Variation 11: Answer the following question: What is the capital of Japan?,,0.01675062499998603
+544,Factual Q&A,Variation 11: Answer the following question: What is the capital of Italy?,rome,0.01680824999948527
+545,Factual Q&A,Variation 11: Answer the following question: What is the capital of Spain?,ltima,0.027977792000456247
+546,Factual Q&A,Variation 11: Answer the following question: What is the capital of Canada?,Canada,0.013179042000047048
+547,Factual Q&A,Variation 11: Answer the following question: What is the capital of Australia?,sydney,0.02791583299949707
+548,Factual Q&A,Variation 11: Answer the following question: What is the capital of Brazil?,Brazil,0.012817249999898195
+549,Factual Q&A,Variation 11: Answer the following question: What is the capital of India?,,0.016629582999485137
+550,Factual Q&A,Variation 11: Answer the following question: What is the capital of China?,,0.01656495899987931
+551,Factual Q&A,Variation 12: Answer the following question: What is the capital of Mexico?,el agua,0.035309917000631685
+552,Factual Q&A,Variation 12: Answer the following question: What is the capital of Egypt?,egypt,0.03175199999986944
+553,Factual Q&A,Variation 12: Answer the following question: What is the capital of South Africa?,sacramento,0.03171570799986512
+554,Factual Q&A,Variation 12: Answer the following question: What is the capital of Russia?,syria,0.031507666999459616
+555,Factual Q&A,Variation 12: Answer the following question: What is the capital of South Korea?,shanghai,0.028217207999659877
+556,Factual Q&A,Variation 12: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.027851583000483515
+557,Factual Q&A,Variation 12: Answer the following question: What is the capital of Netherlands?,st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et s,0.49689466699965124
+558,Factual Q&A,Variation 12: Answer the following question: What is the capital of Turkey?,stanbul,0.024636875000396685
+559,Factual Q&A,Variation 12: Answer the following question: What is the capital of Sweden?,sweden,0.02409791599984601
+560,Factual Q&A,Variation 12: Answer the following question: What is the capital of Norway?,st st st st st st,0.07679591699979937
+561,Translation (French),"Variation 12: Translate to French: Hello, how are you?","Hello, c'est-ce-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t-t",0.5013306250002643
+562,Translation (French),Variation 12: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05075283399946784
+563,Translation (French),Variation 12: Translate to French: Where is the train station?,                                                               ,0.49641862499993294
+564,Translation (French),"Variation 12: Translate to French: Good morning, friend.",                                                               ,0.5035577910002758
+565,Translation (French),Variation 12: Translate to French: What time is it?,Quelle temps est ?,0.03206179200060433
+566,Translation (French),Variation 12: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04104037499928381
+567,Translation (French),Variation 12: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047053541999957815
+568,Translation (French),Variation 12: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.0629474580000533
+569,Translation (French),Variation 12: Translate to French: Where is the hotel?,Le hôtel est situé?,0.03605324999989534
+570,Translation (French),Variation 12: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04711525000038819
+571,Translation (Spanish),"Variation 12: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.0669538329993884
+572,Translation (Spanish),Variation 12: Translate to Spanish: Thank you very much.,El gran grato.,0.03769483299947751
+573,Translation (Spanish),Variation 12: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06268920799993793
+574,Translation (Spanish),"Variation 12: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.035530082999684964
+575,Translation (Spanish),Variation 12: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06854370800010656
+576,Translation (Spanish),Variation 12: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04370737499993993
+577,Translation (Spanish),Variation 12: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06240179099950183
+578,Translation (Spanish),Variation 12: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07244566699955612
+579,Translation (Spanish),Variation 12: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.058008042000437854
+580,Translation (Spanish),Variation 12: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05416158299976814
+581,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013915167000050133
+582,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.01481824999973469
+583,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013221499999417574
+584,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.014544082999236707
+585,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013962709000225004
+586,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013300083000103768
+587,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013378499999816995
+588,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013203124999563443
+589,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.01291220799976145
+590,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013219542000115325
+591,Arithmetic,Variation 12: Solve this math problem: What is 5 plus 7?,5,0.012974917000065034
+592,Arithmetic,Variation 12: Solve this math problem: What is 12 minus 4?,0,0.016945583000051556
+593,Arithmetic,Variation 12: Solve this math problem: What is 3 times 6?,0,0.01688558300065779
+594,Arithmetic,Variation 12: Solve this math problem: What is 20 divided by 4?,0,0.01696883299973706
+595,Arithmetic,Variation 12: Solve this math problem: What is 15 plus 15?,0,0.016910583999560913
+596,Arithmetic,Variation 12: Solve this math problem: What is 50 minus 25?,0,0.016772834000221337
+597,Arithmetic,Variation 12: Solve this math problem: What is 8 times 7?,0,0.016597416999502457
+598,Arithmetic,Variation 12: Solve this math problem: What is 100 divided by 10?,0,0.016927041999224457
+599,Arithmetic,Variation 12: Solve this math problem: What is 9 plus 14?,0,0.016792584000540955
+600,Arithmetic,Variation 12: Solve this math problem: What is 45 minus 9?,0,0.016875874999641383
+601,Factual Q&A,Variation 13: Answer the following question: What is the capital of France?,l'ondre,0.03147575000002689
+602,Factual Q&A,Variation 13: Answer the following question: What is the capital of Germany?,berlin,0.01663487499990879
+603,Factual Q&A,Variation 13: Answer the following question: What is the capital of Japan?,,0.016822540999783087
+604,Factual Q&A,Variation 13: Answer the following question: What is the capital of Italy?,rome,0.01677066600041144
+605,Factual Q&A,Variation 13: Answer the following question: What is the capital of Spain?,santa cruz,0.03170574999967357
+606,Factual Q&A,Variation 13: Answer the following question: What is the capital of Canada?,Canada,0.013155041999198147
+607,Factual Q&A,Variation 13: Answer the following question: What is the capital of Australia?,sydney,0.02771874999962165
+608,Factual Q&A,Variation 13: Answer the following question: What is the capital of Brazil?,Brazil,0.013154874999599997
+609,Factual Q&A,Variation 13: Answer the following question: What is the capital of India?,,0.016707290999875113
+610,Factual Q&A,Variation 13: Answer the following question: What is the capital of China?,,0.016796124999927997
+611,Factual Q&A,Variation 13: Answer the following question: What is the capital of Mexico?,el agua,0.036946374999388354
+612,Factual Q&A,Variation 13: Answer the following question: What is the capital of Egypt?,egypt,0.034109040999283025
+613,Factual Q&A,Variation 13: Answer the following question: What is the capital of South Africa?,sacramento,0.03257629200015799
+614,Factual Q&A,Variation 13: Answer the following question: What is the capital of Russia?,sydney,0.028290999999626365
+615,Factual Q&A,Variation 13: Answer the following question: What is the capital of South Korea?,shanghai,0.02841774999978952
+616,Factual Q&A,Variation 13: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02815104199999041
+617,Factual Q&A,Variation 13: Answer the following question: What is the capital of Netherlands?,Netherlands,0.012758249999933469
+618,Factual Q&A,Variation 13: Answer the following question: What is the capital of Turkey?,stanbul,0.024409082999227394
+619,Factual Q&A,Variation 13: Answer the following question: What is the capital of Sweden?,sweden,0.023998333000236016
+620,Factual Q&A,Variation 13: Answer the following question: What is the capital of Norway?,st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st s,0.49724733299990476
+621,Translation (French),"Variation 13: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.0503461670004981
+622,Translation (French),Variation 13: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05026612500023475
+623,Translation (French),Variation 13: Translate to French: Where is the train station?, où est la station de train?,0.04662241699952574
+624,Translation (French),"Variation 13: Translate to French: Good morning, friend.","Good morning, ami.",0.0315413329999501
+625,Translation (French),Variation 13: Translate to French: What time is it?,Quelle temps est ?,0.02773200000046927
+626,Translation (French),Variation 13: Translate to French: I would like a coffee.,Je voudrais un latte.,0.03908370899989677
+627,Translation (French),Variation 13: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047371583999847644
+628,Translation (French),Variation 13: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.05748924999988958
+629,Translation (French),Variation 13: Translate to French: Where is the hotel?,                                                               ,0.5086252920000334
+630,Translation (French),Variation 13: Translate to French: Can you help me?,Vous pouvez s'agir?,0.048921500000687956
+631,Translation (Spanish),"Variation 13: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06618691600033344
+632,Translation (Spanish),Variation 13: Translate to Spanish: Thank you very much.,El gran grato.,0.036491750000095635
+633,Translation (Spanish),Variation 13: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06524004100083403
+634,Translation (Spanish),"Variation 13: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03532545799953368
+635,Translation (Spanish),Variation 13: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06964029099981417
+636,Translation (Spanish),Variation 13: Translate to Spanish: I would like a coffee.,Aqu es una comida.,0.05453250000027765
+637,Translation (Spanish),Variation 13: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06291579200023989
+638,Translation (Spanish),Variation 13: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.06957891599995492
+639,Translation (Spanish),Variation 13: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.058494750000136264
+640,Translation (Spanish),Variation 13: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05052745800003322
+641,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013351417000194488
+642,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013268582999444334
+643,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.012822167000194895
+644,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013356542000110494
+645,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013264917000014975
+646,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013325667000572139
+647,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013243542000054731
+648,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.012834834000386763
+649,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013104416999340174
+650,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013925166000262834
+651,Arithmetic,Variation 14: Solve this math problem: What is 5 plus 7?,5,0.014333666999846173
+652,Arithmetic,Variation 14: Solve this math problem: What is 12 minus 4?,0,0.018372583000200393
+653,Arithmetic,Variation 14: Solve this math problem: What is 3 times 6?,0,0.017525207999824488
+654,Arithmetic,Variation 14: Solve this math problem: What is 20 divided by 4?,0,0.016695042000719695
+655,Arithmetic,Variation 14: Solve this math problem: What is 15 plus 15?,0,0.0168304580001859
+656,Arithmetic,Variation 14: Solve this math problem: What is 50 minus 25?,0,0.018027375000201573
+657,Arithmetic,Variation 14: Solve this math problem: What is 8 times 7?,0,0.01787712500026828
+658,Arithmetic,Variation 14: Solve this math problem: What is 100 divided by 10?,0,0.018403042000500136
+659,Arithmetic,Variation 14: Solve this math problem: What is 9 plus 14?,0,0.018114708999746654
+660,Arithmetic,Variation 14: Solve this math problem: What is 45 minus 9?,0,0.017610707999665465
+661,Factual Q&A,Variation 14: Answer the following question: What is the capital of France?,l'ondre,0.03284383300069749
+662,Factual Q&A,Variation 14: Answer the following question: What is the capital of Germany?,berlin,0.01751266700011911
+663,Factual Q&A,Variation 14: Answer the following question: What is the capital of Japan?,,0.0174677499999234
+664,Factual Q&A,Variation 14: Answer the following question: What is the capital of Italy?,rome,0.017309082999418024
+665,Factual Q&A,Variation 14: Answer the following question: What is the capital of Spain?,santa cruz,0.03277650000018184
+666,Factual Q&A,Variation 14: Answer the following question: What is the capital of Canada?,Canada,0.01308083300045837
+667,Factual Q&A,Variation 14: Answer the following question: What is the capital of Australia?,sydney,0.028973292000046058
+668,Factual Q&A,Variation 14: Answer the following question: What is the capital of Brazil?,ltima,0.029088084000250092
+669,Factual Q&A,Variation 14: Answer the following question: What is the capital of India?,,0.017201999999997497
+670,Factual Q&A,Variation 14: Answer the following question: What is the capital of China?,,0.017206584000632574
+671,Factual Q&A,Variation 14: Answer the following question: What is the capital of Mexico?,el agua,0.036474458999691706
+672,Factual Q&A,Variation 14: Answer the following question: What is the capital of Egypt?,egypt,0.0331038329995863
+673,Factual Q&A,Variation 14: Answer the following question: What is the capital of South Africa?,sacramento,0.03270433299985598
+674,Factual Q&A,Variation 14: Answer the following question: What is the capital of Russia?,syria,0.032736832999944454
+675,Factual Q&A,Variation 14: Answer the following question: What is the capital of South Korea?,shanghai,0.02915679200032173
+676,Factual Q&A,Variation 14: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028850082999269944
+677,Factual Q&A,Variation 14: Answer the following question: What is the capital of Netherlands?,st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et s,0.5185117909995824
+678,Factual Q&A,Variation 14: Answer the following question: What is the capital of Turkey?,stanbul,0.024198832999900333
+679,Factual Q&A,Variation 14: Answer the following question: What is the capital of Sweden?,sweden,0.02438925000024028
+680,Factual Q&A,Variation 14: Answer the following question: What is the capital of Norway?,st st st st st,0.07111733299916523
+681,Translation (French),"Variation 14: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.053496375000577245
+682,Translation (French),Variation 14: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.0504911660000289
+683,Translation (French),Variation 14: Translate to French: Where is the train station?, où est la station de train?,0.04703662500014616
+684,Translation (French),"Variation 14: Translate to French: Good morning, friend.",                                                               ,0.5417675420003434
+685,Translation (French),Variation 14: Translate to French: What time is it?,Quelle temps est ?,0.02838937500018801
+686,Translation (French),Variation 14: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04120633300044574
+687,Translation (French),Variation 14: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04809991699949023
+688,Translation (French),Variation 14: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.05956591699941782
+689,Translation (French),Variation 14: Translate to French: Where is the hotel?,                                                               ,0.5137052499994752
+690,Translation (French),Variation 14: Translate to French: Can you help me?,Vous pouvez s'agir?,0.048306165999747464
+691,Translation (Spanish),"Variation 14: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06741412500014121
+692,Translation (Spanish),Variation 14: Translate to Spanish: Thank you very much.,El gran grato.,0.0365597500003787
+693,Translation (Spanish),Variation 14: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.0635288749999745
+694,Translation (Spanish),"Variation 14: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03625212499991903
+695,Translation (Spanish),Variation 14: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06733458300004713
+696,Translation (Spanish),Variation 14: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.044622749999689404
+697,Translation (Spanish),Variation 14: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06337395800073864
+698,Translation (Spanish),Variation 14: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07096833400009928
+699,Translation (Spanish),Variation 14: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.059986707999996725
+700,Translation (Spanish),Variation 14: Translate to Spanish: Can you help me?,Cómo me ayudar?,0.0593256249994738
+701,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013864167000065208
+702,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013794749999760825
+703,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013705749999644468
+704,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013670792000084475
+705,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013170209000236355
+706,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013651915999616904
+707,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013485417000083544
+708,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013592000000244298
+709,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013524915999369114
+710,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.01307929199992941
+711,Arithmetic,Variation 15: Solve this math problem: What is 5 plus 7?,5,0.013371374999223917
+712,Arithmetic,Variation 15: Solve this math problem: What is 12 minus 4?,0,0.017268958000386192
+713,Arithmetic,Variation 15: Solve this math problem: What is 3 times 6?,0,0.017371790999277437
+714,Arithmetic,Variation 15: Solve this math problem: What is 20 divided by 4?,0,0.017583167000339017
+715,Arithmetic,Variation 15: Solve this math problem: What is 15 plus 15?,0,0.01838041599967255
+716,Arithmetic,Variation 15: Solve this math problem: What is 50 minus 25?,0,0.017882208000628452
+717,Arithmetic,Variation 15: Solve this math problem: What is 8 times 7?,0,0.017771666999578883
+718,Arithmetic,Variation 15: Solve this math problem: What is 100 divided by 10?,0,0.017918583000209765
+719,Arithmetic,Variation 15: Solve this math problem: What is 9 plus 14?,0,0.017294375000346918
+720,Arithmetic,Variation 15: Solve this math problem: What is 45 minus 9?,0,0.01725845799956005
+721,Factual Q&A,Variation 15: Answer the following question: What is the capital of France?,l'ondre,0.03246450000006007
+722,Factual Q&A,Variation 15: Answer the following question: What is the capital of Germany?,berlin,0.017197666999891226
+723,Factual Q&A,Variation 15: Answer the following question: What is the capital of Japan?,,0.017111583999394497
+724,Factual Q&A,Variation 15: Answer the following question: What is the capital of Italy?,rome,0.017143541000223195
+725,Factual Q&A,Variation 15: Answer the following question: What is the capital of Spain?,santa cruz,0.032823999999891385
+726,Factual Q&A,Variation 15: Answer the following question: What is the capital of Canada?,Canada,0.013320625000233122
+727,Factual Q&A,Variation 15: Answer the following question: What is the capital of Australia?,sydney,0.028841290999480407
+728,Factual Q&A,Variation 15: Answer the following question: What is the capital of Brazil?,ltima,0.02857437500006199
+729,Factual Q&A,Variation 15: Answer the following question: What is the capital of India?,,0.017207541999596287
+730,Factual Q&A,Variation 15: Answer the following question: What is the capital of China?,,0.017247374999897147
+731,Factual Q&A,Variation 15: Answer the following question: What is the capital of Mexico?,el agua,0.036903000000165775
+732,Factual Q&A,Variation 15: Answer the following question: What is the capital of Egypt?,egypt,0.032660415999998804
+733,Factual Q&A,Variation 15: Answer the following question: What is the capital of South Africa?,sacramento,0.03276554099920759
+734,Factual Q&A,Variation 15: Answer the following question: What is the capital of Russia?,syria,0.03270833300030063
+735,Factual Q&A,Variation 15: Answer the following question: What is the capital of South Korea?,shanghai,0.02917920799973217
+736,Factual Q&A,Variation 15: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.02900516699992295
+737,Factual Q&A,Variation 15: Answer the following question: What is the capital of Netherlands?,st ett,0.03633087500020338
+738,Factual Q&A,Variation 15: Answer the following question: What is the capital of Turkey?,stanbul,0.025282374999733292
+739,Factual Q&A,Variation 15: Answer the following question: What is the capital of Sweden?,sweden,0.02462945800016314
+740,Factual Q&A,Variation 15: Answer the following question: What is the capital of Norway?,st st st st st,0.06787687499945605
+741,Translation (French),"Variation 15: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05186387499998091
+742,Translation (French),Variation 15: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05221291599991673
+743,Translation (French),Variation 15: Translate to French: Where is the train station?, où est la station de train?,0.047934708999491704
+744,Translation (French),"Variation 15: Translate to French: Good morning, friend.","Good morning, ami.",0.032636958000693994
+745,Translation (French),Variation 15: Translate to French: What time is it?,Quelle temps est ?,0.029030290999799035
+746,Translation (French),Variation 15: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04018154200002755
+747,Translation (French),Variation 15: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04793466699993587
+748,Translation (French),Variation 15: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.06088779199944838
+749,Translation (French),Variation 15: Translate to French: Where is the hotel?,                                                               ,0.5129787919995579
+750,Translation (French),Variation 15: Translate to French: Can you help me?,Cant j'ai s'agissant?,0.06360454200057575
+751,Translation (Spanish),"Variation 16: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06730487499953597
+752,Translation (Spanish),Variation 16: Translate to Spanish: Thank you very much.,Gracias muchos.,0.039942874999724154
+753,Translation (Spanish),Variation 16: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06360299999960262
+754,Translation (Spanish),"Variation 16: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.036108041999796114
+755,Translation (Spanish),Variation 16: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06719441699988238
+756,Translation (Spanish),Variation 16: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.044313749999673746
+757,Translation (Spanish),Variation 16: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06329587500022171
+758,Translation (Spanish),Variation 16: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07087804200000392
+759,Translation (Spanish),Variation 16: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05925858399950812
+760,Translation (Spanish),Variation 16: Translate to Spanish: Can you help me?,Cantas ayudarles?,0.05239037499995902
+761,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013227124999502848
+762,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013915708000240556
+763,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013728458000514365
+764,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.0137742500000968
+765,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013535957999920356
+766,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.01361762499982433
+767,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013268374999825028
+768,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013865249999980733
+769,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013702375000320899
+770,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013648042000568239
+771,Arithmetic,Variation 16: Solve this math problem: What is 5 plus 7?,5,0.013440124999760883
+772,Arithmetic,Variation 16: Solve this math problem: What is 12 minus 4?,12 minus 4,0.024693458000001556
+773,Arithmetic,Variation 16: Solve this math problem: What is 3 times 6?,0,0.017314708000412793
+774,Arithmetic,Variation 16: Solve this math problem: What is 20 divided by 4?,0,0.017443124999772408
+775,Arithmetic,Variation 16: Solve this math problem: What is 15 plus 15?,0,0.017198208999616327
+776,Arithmetic,Variation 16: Solve this math problem: What is 50 minus 25?,0,0.017337916000542464
+777,Arithmetic,Variation 16: Solve this math problem: What is 8 times 7?,0,0.017385625000315486
+778,Arithmetic,Variation 16: Solve this math problem: What is 100 divided by 10?,0,0.017249915999855148
+779,Arithmetic,Variation 16: Solve this math problem: What is 9 plus 14?,0,0.01769250000052125
+780,Arithmetic,Variation 16: Solve this math problem: What is 45 minus 9?,0,0.017216708999512775
+781,Factual Q&A,Variation 16: Answer the following question: What is the capital of France?,l'ondre,0.03278066700022464
+782,Factual Q&A,Variation 16: Answer the following question: What is the capital of Germany?,berlin,0.01724662500055274
+783,Factual Q&A,Variation 16: Answer the following question: What is the capital of Japan?,,0.01725425000040559
+784,Factual Q&A,Variation 16: Answer the following question: What is the capital of Italy?,rome,0.01729050000085408
+785,Factual Q&A,Variation 16: Answer the following question: What is the capital of Spain?,santa cruz,0.03246920899982797
+786,Factual Q&A,Variation 16: Answer the following question: What is the capital of Canada?,Canada,0.013028249999479158
+787,Factual Q&A,Variation 16: Answer the following question: What is the capital of Australia?,sydney,0.028874458000245795
+788,Factual Q&A,Variation 16: Answer the following question: What is the capital of Brazil?,ltima,0.029098333000547427
+789,Factual Q&A,Variation 16: Answer the following question: What is the capital of India?,,0.0172123329994065
+790,Factual Q&A,Variation 16: Answer the following question: What is the capital of China?,,0.017294207999839273
+791,Factual Q&A,Variation 16: Answer the following question: What is the capital of Mexico?,el agua,0.03662395799983642
+792,Factual Q&A,Variation 16: Answer the following question: What is the capital of Egypt?,egypt,0.03259329100001196
+793,Factual Q&A,Variation 16: Answer the following question: What is the capital of South Africa?,sacramento,0.033834458000455925
+794,Factual Q&A,Variation 16: Answer the following question: What is the capital of Russia?,syria,0.035091208000267216
+795,Factual Q&A,Variation 16: Answer the following question: What is the capital of South Korea?,shanghai,0.029359209000176634
+796,Factual Q&A,Variation 16: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.029198290999374876
+797,Factual Q&A,Variation 16: Answer the following question: What is the capital of Netherlands?,Netherlands,0.013282791999699839
+798,Factual Q&A,Variation 16: Answer the following question: What is the capital of Turkey?,stanbul,0.024645250000503438
+799,Factual Q&A,Variation 16: Answer the following question: What is the capital of Sweden?,sweden,0.02510050000000774
+800,Factual Q&A,Variation 16: Answer the following question: What is the capital of Norway?,st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st s,0.5154545830000643
+801,Translation (French),"Variation 17: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.051825874999849475
+802,Translation (French),Variation 17: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.0520340409993878
+803,Translation (French),Variation 17: Translate to French: Where is the train station?, où est la station de train?,0.047892749999846274
+804,Translation (French),"Variation 17: Translate to French: Good morning, friend.","Good morning, ami.",0.033237499999813735
+805,Translation (French),Variation 17: Translate to French: What time is it?,Quelle temps est ?,0.031095207999896957
+806,Translation (French),Variation 17: Translate to French: I would like a coffee.,Je voudrais un latte.,0.0419762500005163
+807,Translation (French),Variation 17: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.04869275000055495
+808,Translation (French),Variation 17: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.060250833000282
+809,Translation (French),Variation 17: Translate to French: Where is the hotel?,                                                               ,0.5144225410003855
+810,Translation (French),Variation 17: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04827416700027243
+811,Translation (Spanish),"Variation 17: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06745900000078109
+812,Translation (Spanish),Variation 17: Translate to Spanish: Thank you very much.,Gracias muchos.,0.040372499999648426
+813,Translation (Spanish),Variation 17: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06344970900045155
+814,Translation (Spanish),"Variation 17: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03644850000000588
+815,Translation (Spanish),Variation 17: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06751183300002594
+816,Translation (Spanish),Variation 17: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.045340167000176734
+817,Translation (Spanish),Variation 17: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06369600000016362
+818,Translation (Spanish),Variation 17: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07091975000003004
+819,Translation (Spanish),Variation 17: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.0593597500001124
+820,Translation (Spanish),Variation 17: Translate to Spanish: Can you help me?,Cantado ayudarme?,0.05620550000003277
+821,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013729500000408734
+822,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013455457999953069
+823,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013543584000217379
+824,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013754540999798337
+825,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013552999999774329
+826,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013463374999446387
+827,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013438750000204891
+828,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.01316495799983386
+829,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013745792000008805
+830,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013632291000249097
+831,Arithmetic,Variation 17: Solve this math problem: What is 5 plus 7?,5,0.013398707999840553
+832,Arithmetic,Variation 17: Solve this math problem: What is 12 minus 4?,0,0.016986707999421924
+833,Arithmetic,Variation 17: Solve this math problem: What is 3 times 6?,0,0.01712337499975547
+834,Arithmetic,Variation 17: Solve this math problem: What is 20 divided by 4?,0,0.017086750000089523
+835,Arithmetic,Variation 17: Solve this math problem: What is 15 plus 15?,0,0.017232500000318396
+836,Arithmetic,Variation 17: Solve this math problem: What is 50 minus 25?,0,0.017159041999548208
+837,Arithmetic,Variation 17: Solve this math problem: What is 8 times 7?,0,0.01720754100006161
+838,Arithmetic,Variation 17: Solve this math problem: What is 100 divided by 10?,0,0.017088708999835944
+839,Arithmetic,Variation 17: Solve this math problem: What is 9 plus 14?,0,0.01695866699992621
+840,Arithmetic,Variation 17: Solve this math problem: What is 45 minus 9?,0,0.017216166999787674
+841,Factual Q&A,Variation 17: Answer the following question: What is the capital of France?,franc,0.0209182079997845
+842,Factual Q&A,Variation 17: Answer the following question: What is the capital of Germany?,berlin,0.017603917000087677
+843,Factual Q&A,Variation 17: Answer the following question: What is the capital of Japan?,,0.01759491699976934
+844,Factual Q&A,Variation 17: Answer the following question: What is the capital of Italy?,rome,0.017383790999701887
+845,Factual Q&A,Variation 17: Answer the following question: What is the capital of Spain?,santa cruz,0.032792749999316584
+846,Factual Q&A,Variation 17: Answer the following question: What is the capital of Canada?,Canada,0.013144125000508211
+847,Factual Q&A,Variation 17: Answer the following question: What is the capital of Australia?,sydney,0.028953041999557172
+848,Factual Q&A,Variation 17: Answer the following question: What is the capital of Brazil?,ltima,0.029099750000568747
+849,Factual Q&A,Variation 17: Answer the following question: What is the capital of India?,,0.017034583000167913
+850,Factual Q&A,Variation 17: Answer the following question: What is the capital of China?,,0.017300666999290115
+851,Factual Q&A,Variation 18: Answer the following question: What is the capital of Mexico?,el agua,0.03620466700067482
+852,Factual Q&A,Variation 18: Answer the following question: What is the capital of Egypt?,egypt,0.03249616699940816
+853,Factual Q&A,Variation 18: Answer the following question: What is the capital of South Africa?,sacramento,0.032652584000061324
+854,Factual Q&A,Variation 18: Answer the following question: What is the capital of Russia?,syria,0.03287599999930535
+855,Factual Q&A,Variation 18: Answer the following question: What is the capital of South Korea?,shanghai,0.028936874999999418
+856,Factual Q&A,Variation 18: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028872916999716836
+857,Factual Q&A,Variation 18: Answer the following question: What is the capital of Netherlands?,st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et st et s,0.514952667000216
+858,Factual Q&A,Variation 18: Answer the following question: What is the capital of Turkey?,stanbul,0.025512000000162516
+859,Factual Q&A,Variation 18: Answer the following question: What is the capital of Sweden?,sweden,0.02582550000079209
+860,Factual Q&A,Variation 18: Answer the following question: What is the capital of Norway?,st st st st st,0.07143300000007002
+861,Translation (French),"Variation 18: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.052361249999194115
+862,Translation (French),Variation 18: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05219962499995745
+863,Translation (French),Variation 18: Translate to French: Where is the train station?,                                                               ,0.5181892919999882
+864,Translation (French),"Variation 18: Translate to French: Good morning, friend.","Good morning, ami.",0.03254554199975246
+865,Translation (French),Variation 18: Translate to French: What time is it?,                                                               ,0.5149683330000698
+866,Translation (French),Variation 18: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04080199999953038
+867,Translation (French),Variation 18: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047767292000571615
+868,Translation (French),Variation 18: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.0599429579997377
+869,Translation (French),Variation 18: Translate to French: Where is the hotel?,                                                               ,0.5222335410007872
+870,Translation (French),Variation 18: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04830004199993709
+871,Translation (Spanish),"Variation 18: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06751491700015322
+872,Translation (Spanish),Variation 18: Translate to Spanish: Thank you very much.,El gran grato.,0.03715608400034398
+873,Translation (Spanish),Variation 18: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06339562499942986
+874,Translation (Spanish),"Variation 18: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.03721216699977958
+875,Translation (Spanish),Variation 18: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06792637499984266
+876,Translation (Spanish),Variation 18: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04426504200000636
+877,Translation (Spanish),Variation 18: Translate to Spanish: Have a nice day!,Hay una gran da!,0.063775832999454
+878,Translation (Spanish),Variation 18: Translate to Spanish: Nice to meet you.,Por qué acontecemos a tu amigo.,0.09104704200035485
+879,Translation (Spanish),Variation 18: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.059623500000270724
+880,Translation (Spanish),Variation 18: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05198033299984672
+881,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.013735874999838416
+882,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.014008792000822723
+883,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013945874999990338
+884,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013599708000583632
+885,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.013602208000520477
+886,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013063291999969806
+887,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013662334000400733
+888,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013657292000061716
+889,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013715334000153234
+890,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013632457999847247
+891,Arithmetic,Variation 18: Solve this math problem: What is 5 plus 7?,5,0.013138000000253669
+892,Arithmetic,Variation 18: Solve this math problem: What is 12 minus 4?,0,0.017526125000586035
+893,Arithmetic,Variation 18: Solve this math problem: What is 3 times 6?,0,0.017347207999591774
+894,Arithmetic,Variation 18: Solve this math problem: What is 20 divided by 4?,0,0.017246958000214363
+895,Arithmetic,Variation 18: Solve this math problem: What is 15 plus 15?,0,0.017242584000086936
+896,Arithmetic,Variation 18: Solve this math problem: What is 50 minus 25?,0,0.01725020800040511
+897,Arithmetic,Variation 18: Solve this math problem: What is 8 times 7?,0,0.01734679099990899
+898,Arithmetic,Variation 18: Solve this math problem: What is 100 divided by 10?,0,0.017258791999665846
+899,Arithmetic,Variation 18: Solve this math problem: What is 9 plus 14?,0,0.017166209000606614
+900,Arithmetic,Variation 18: Solve this math problem: What is 45 minus 9?,0,0.01705820900042454
+901,Factual Q&A,Variation 19: Answer the following question: What is the capital of France?,l'ondre,0.03291712499958521
+902,Factual Q&A,Variation 19: Answer the following question: What is the capital of Germany?,berlin,0.01715154200064717
+903,Factual Q&A,Variation 19: Answer the following question: What is the capital of Japan?,,0.017177124999761872
+904,Factual Q&A,Variation 19: Answer the following question: What is the capital of Italy?,rome,0.01711650000015652
+905,Factual Q&A,Variation 19: Answer the following question: What is the capital of Spain?,santa cruz,0.03284725000048638
+906,Factual Q&A,Variation 19: Answer the following question: What is the capital of Canada?,Canada,0.013684666000699508
+907,Factual Q&A,Variation 19: Answer the following question: What is the capital of Australia?,sydney,0.02877220899972599
+908,Factual Q&A,Variation 19: Answer the following question: What is the capital of Brazil?,ltima,0.028707125000437372
+909,Factual Q&A,Variation 19: Answer the following question: What is the capital of India?,sarajevo,0.033708082999510225
+910,Factual Q&A,Variation 19: Answer the following question: What is the capital of China?,,0.017967291999411827
+911,Factual Q&A,Variation 19: Answer the following question: What is the capital of Mexico?,el agua,0.03732808400036447
+912,Factual Q&A,Variation 19: Answer the following question: What is the capital of Egypt?,egypt,0.03263966699978482
+913,Factual Q&A,Variation 19: Answer the following question: What is the capital of South Africa?,sacramento,0.032782209000288276
+914,Factual Q&A,Variation 19: Answer the following question: What is the capital of Russia?,syria,0.03281283300020732
+915,Factual Q&A,Variation 19: Answer the following question: What is the capital of South Korea?,shanghai,0.028556416999890644
+916,Factual Q&A,Variation 19: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.029060957999718084
+917,Factual Q&A,Variation 19: Answer the following question: What is the capital of Netherlands?,st es,0.03284483300012653
+918,Factual Q&A,Variation 19: Answer the following question: What is the capital of Turkey?,stanbul,0.024845832999744744
+919,Factual Q&A,Variation 19: Answer the following question: What is the capital of Sweden?,sweden,0.02511137500005134
+920,Factual Q&A,Variation 19: Answer the following question: What is the capital of Norway?,st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st st s,0.5147260829999141
+921,Translation (French),"Variation 19: Translate to French: Hello, how are you?","Bonjour, c'est-à-dire?",0.05175933300051838
+922,Translation (French),Variation 19: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.05177425000056246
+923,Translation (French),Variation 19: Translate to French: Where is the train station?,                                                               ,0.5155063750007685
+924,Translation (French),"Variation 19: Translate to French: Good morning, friend.","Good morning, ami.",0.032708000000639004
+925,Translation (French),Variation 19: Translate to French: What time is it?,Quelle temps est ?,0.029115958000147657
+926,Translation (French),Variation 19: Translate to French: I would like a coffee.,Je voudrais un latte.,0.040299207999851205
+927,Translation (French),Variation 19: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047985125000195694
+928,Translation (French),Variation 19: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.06015845799993258
+929,Translation (French),Variation 19: Translate to French: Where is the hotel?,                                                               ,0.5243337920001068
+930,Translation (French),Variation 19: Translate to French: Can you help me?,Vous pouvez s'agir?,0.04827716599993437
+931,Translation (Spanish),"Variation 19: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06764750000002095
+932,Translation (Spanish),Variation 19: Translate to Spanish: Thank you very much.,El gran grato de estos aos.,0.07138687499991647
+933,Translation (Spanish),Variation 19: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06359554099981324
+934,Translation (Spanish),"Variation 19: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.0371703750006418
+935,Translation (Spanish),Variation 19: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06775012500020239
+936,Translation (Spanish),Variation 19: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.04383141699963744
+937,Translation (Spanish),Variation 19: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06381445900024119
+938,Translation (Spanish),Variation 19: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07087912499991944
+939,Translation (Spanish),Variation 19: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.06027933299992583
+940,Translation (Spanish),Variation 19: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.051872666999770445
+941,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.,negative,0.01389416700021684
+942,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!",positive,0.013769542000773072
+943,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: It was okay, nothing special.",negative,0.013583291999566427
+944,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund.",negative,0.013194541999837384
+945,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!",positive,0.01358129199979885
+946,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The battery life is horrible.,negative,0.013574165999671095
+947,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Exceeded my expectations!,positive,0.013541667000026791
+948,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Waste of money.,negative,0.013394666000749567
+949,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.,positive,0.013245584000287636
+950,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The product arrived damaged.,negative,0.013091290999909688
+951,Arithmetic,Variation 20: Solve this math problem: What is 5 plus 7?,5,0.013550874999964435
+952,Arithmetic,Variation 20: Solve this math problem: What is 12 minus 4?,0,0.017102917000556772
+953,Arithmetic,Variation 20: Solve this math problem: What is 3 times 6?,0,0.017117417000008572
+954,Arithmetic,Variation 20: Solve this math problem: What is 20 divided by 4?,0,0.01716120899982343
+955,Arithmetic,Variation 20: Solve this math problem: What is 15 plus 15?,0,0.01718433400037611
+956,Arithmetic,Variation 20: Solve this math problem: What is 50 minus 25?,0,0.017412958000022627
+957,Arithmetic,Variation 20: Solve this math problem: What is 8 times 7?,0,0.017481834000136587
+958,Arithmetic,Variation 20: Solve this math problem: What is 100 divided by 10?,0,0.017512792000161426
+959,Arithmetic,Variation 20: Solve this math problem: What is 9 plus 14?,0,0.01733816699925228
+960,Arithmetic,Variation 20: Solve this math problem: What is 45 minus 9?,0,0.017725624999911815
+961,Factual Q&A,Variation 20: Answer the following question: What is the capital of France?,,0.01914983300048334
+962,Factual Q&A,Variation 20: Answer the following question: What is the capital of Germany?,berlin,0.017286291000345955
+963,Factual Q&A,Variation 20: Answer the following question: What is the capital of Japan?,,0.017525750000459084
+964,Factual Q&A,Variation 20: Answer the following question: What is the capital of Italy?,rome,0.017166125000585453
+965,Factual Q&A,Variation 20: Answer the following question: What is the capital of Spain?,ltima,0.028888208999887866
+966,Factual Q&A,Variation 20: Answer the following question: What is the capital of Canada?,Canada,0.014075291999688488
+967,Factual Q&A,Variation 20: Answer the following question: What is the capital of Australia?,sydney,0.02998858399951132
+968,Factual Q&A,Variation 20: Answer the following question: What is the capital of Brazil?,ltima,0.029600707999634324
+969,Factual Q&A,Variation 20: Answer the following question: What is the capital of India?,,0.017212333000315994
+970,Factual Q&A,Variation 20: Answer the following question: What is the capital of China?,,0.01717829100016388
+971,Factual Q&A,Variation 20: Answer the following question: What is the capital of Mexico?,el salvador,0.032682584000212955
+972,Factual Q&A,Variation 20: Answer the following question: What is the capital of Egypt?,egypt,0.03272037500028091
+973,Factual Q&A,Variation 20: Answer the following question: What is the capital of South Africa?,sacramento,0.032917208000071696
+974,Factual Q&A,Variation 20: Answer the following question: What is the capital of Russia?,аар,0.033027208000021346
+975,Factual Q&A,Variation 20: Answer the following question: What is the capital of South Korea?,shanghai,0.029024125000432832
+976,Factual Q&A,Variation 20: Answer the following question: What is the capital of Argentina?,Buenos Aires,0.028976458000215644
+977,Factual Q&A,Variation 20: Answer the following question: What is the capital of Netherlands?,Netherlands,0.013153832999705628
+978,Factual Q&A,Variation 20: Answer the following question: What is the capital of Turkey?,stanbul,0.025418125000214786
+979,Factual Q&A,Variation 20: Answer the following question: What is the capital of Sweden?,sweden,0.024577916000453115
+980,Factual Q&A,Variation 20: Answer the following question: What is the capital of Norway?,sl,0.02897637499972916
+981,Translation (French),"Variation 20: Translate to French: Hello, how are you?","Hello, c'est-à-dire?",0.05193262499960838
+982,Translation (French),Variation 20: Translate to French: Thank you very much., l'honneur de vous accueillir.,0.053722042000117654
+983,Translation (French),Variation 20: Translate to French: Where is the train station?, où est la station de train?,0.04820620800001052
+984,Translation (French),"Variation 20: Translate to French: Good morning, friend.","Good morning, ami.",0.032651167000040004
+985,Translation (French),Variation 20: Translate to French: What time is it?,Quelle temps est ?,0.028701250000267464
+986,Translation (French),Variation 20: Translate to French: I would like a coffee.,Je voudrais un latte.,0.04055670900015684
+987,Translation (French),Variation 20: Translate to French: Have a nice day!,Vous avez un jour à jour!,0.047840291000284196
+988,Translation (French),Variation 20: Translate to French: Nice to meet you.,Vous êtes endroit de l'accueil.,0.06146012499993958
+989,Translation (French),Variation 20: Translate to French: Where is the hotel?,                                                               ,0.5158292910000455
+990,Translation (French),Variation 20: Translate to French: Can you help me?,Cant j'ai s'agissant?,0.06395920800059685
+991,Translation (Spanish),"Variation 20: Translate to Spanish: Hello, how are you?","Hijo, cuál es tu?",0.06696129200008727
+992,Translation (Spanish),Variation 20: Translate to Spanish: Thank you very much.,Gracias muchos.,0.04030541700012691
+993,Translation (Spanish),Variation 20: Translate to Spanish: Where is the train station?,Cuál es la stationa de tren?,0.06342737500017392
+994,Translation (Spanish),"Variation 20: Translate to Spanish: Good morning, friend.","Good morning, amigo.",0.0364690000005794
+995,Translation (Spanish),Variation 20: Translate to Spanish: What time is it?,Qué hora es el tempo?,0.06700841699966986
+996,Translation (Spanish),Variation 20: Translate to Spanish: I would like a coffee.,Quiero una comida.,0.0443502919997627
+997,Translation (Spanish),Variation 20: Translate to Spanish: Have a nice day!,Hay una gran da!,0.06350941700020485
+998,Translation (Spanish),Variation 20: Translate to Spanish: Nice to meet you.,La gente aqu a tuvimos.,0.07066937500076165
+999,Translation (Spanish),Variation 20: Translate to Spanish: Where is the hotel?,Cuál es el hotel?,0.05972020799981692
+1000,Translation (Spanish),Variation 20: Translate to Spanish: Can you help me?,Cantas ayudarme?,0.05163262499991106

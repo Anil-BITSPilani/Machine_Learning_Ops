@@ -1,0 +1,9 @@
+data:
+  path: data/training_data_v1.csv
+
+model:
+  type: LinearRegression
+
+run:
+  experiment_name: "credit_risk_retrain_m6"
+  run_name: "initial_training_run"

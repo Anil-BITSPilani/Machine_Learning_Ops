@@ -1,0 +1,1001 @@
+id,task_type,prompt
+1,Factual Q&A,Answer the following question: What is the capital of France?
+2,Factual Q&A,Answer the following question: What is the capital of Germany?
+3,Factual Q&A,Answer the following question: What is the capital of Japan?
+4,Factual Q&A,Answer the following question: What is the capital of Italy?
+5,Factual Q&A,Answer the following question: What is the capital of Spain?
+6,Factual Q&A,Answer the following question: What is the capital of Canada?
+7,Factual Q&A,Answer the following question: What is the capital of Australia?
+8,Factual Q&A,Answer the following question: What is the capital of Brazil?
+9,Factual Q&A,Answer the following question: What is the capital of India?
+10,Factual Q&A,Answer the following question: What is the capital of China?
+11,Factual Q&A,Answer the following question: What is the capital of Mexico?
+12,Factual Q&A,Answer the following question: What is the capital of Egypt?
+13,Factual Q&A,Answer the following question: What is the capital of South Africa?
+14,Factual Q&A,Answer the following question: What is the capital of Russia?
+15,Factual Q&A,Answer the following question: What is the capital of South Korea?
+16,Factual Q&A,Answer the following question: What is the capital of Argentina?
+17,Factual Q&A,Answer the following question: What is the capital of Netherlands?
+18,Factual Q&A,Answer the following question: What is the capital of Turkey?
+19,Factual Q&A,Answer the following question: What is the capital of Sweden?
+20,Factual Q&A,Answer the following question: What is the capital of Norway?
+21,Translation (French),"Translate to French: Hello, how are you?"
+22,Translation (French),Translate to French: Thank you very much.
+23,Translation (French),Translate to French: Where is the train station?
+24,Translation (French),"Translate to French: Good morning, friend."
+25,Translation (French),Translate to French: What time is it?
+26,Translation (French),Translate to French: I would like a coffee.
+27,Translation (French),Translate to French: Have a nice day!
+28,Translation (French),Translate to French: Nice to meet you.
+29,Translation (French),Translate to French: Where is the hotel?
+30,Translation (French),Translate to French: Can you help me?
+31,Translation (Spanish),"Translate to Spanish: Hello, how are you?"
+32,Translation (Spanish),Translate to Spanish: Thank you very much.
+33,Translation (Spanish),Translate to Spanish: Where is the train station?
+34,Translation (Spanish),"Translate to Spanish: Good morning, friend."
+35,Translation (Spanish),Translate to Spanish: What time is it?
+36,Translation (Spanish),Translate to Spanish: I would like a coffee.
+37,Translation (Spanish),Translate to Spanish: Have a nice day!
+38,Translation (Spanish),Translate to Spanish: Nice to meet you.
+39,Translation (Spanish),Translate to Spanish: Where is the hotel?
+40,Translation (Spanish),Translate to Spanish: Can you help me?
+41,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+42,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+43,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+44,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+45,Sentiment Analysis,"Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+46,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The battery life is horrible.
+47,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+48,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Waste of money.
+49,Sentiment Analysis,Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+50,Sentiment Analysis,Classify the sentiment of this review as positive or negative: The product arrived damaged.
+51,Arithmetic,Variation 2: Solve this math problem: What is 5 plus 7?
+52,Arithmetic,Variation 2: Solve this math problem: What is 12 minus 4?
+53,Arithmetic,Variation 2: Solve this math problem: What is 3 times 6?
+54,Arithmetic,Variation 2: Solve this math problem: What is 20 divided by 4?
+55,Arithmetic,Variation 2: Solve this math problem: What is 15 plus 15?
+56,Arithmetic,Variation 2: Solve this math problem: What is 50 minus 25?
+57,Arithmetic,Variation 2: Solve this math problem: What is 8 times 7?
+58,Arithmetic,Variation 2: Solve this math problem: What is 100 divided by 10?
+59,Arithmetic,Variation 2: Solve this math problem: What is 9 plus 14?
+60,Arithmetic,Variation 2: Solve this math problem: What is 45 minus 9?
+61,Factual Q&A,Variation 2: Answer the following question: What is the capital of France?
+62,Factual Q&A,Variation 2: Answer the following question: What is the capital of Germany?
+63,Factual Q&A,Variation 2: Answer the following question: What is the capital of Japan?
+64,Factual Q&A,Variation 2: Answer the following question: What is the capital of Italy?
+65,Factual Q&A,Variation 2: Answer the following question: What is the capital of Spain?
+66,Factual Q&A,Variation 2: Answer the following question: What is the capital of Canada?
+67,Factual Q&A,Variation 2: Answer the following question: What is the capital of Australia?
+68,Factual Q&A,Variation 2: Answer the following question: What is the capital of Brazil?
+69,Factual Q&A,Variation 2: Answer the following question: What is the capital of India?
+70,Factual Q&A,Variation 2: Answer the following question: What is the capital of China?
+71,Factual Q&A,Variation 2: Answer the following question: What is the capital of Mexico?
+72,Factual Q&A,Variation 2: Answer the following question: What is the capital of Egypt?
+73,Factual Q&A,Variation 2: Answer the following question: What is the capital of South Africa?
+74,Factual Q&A,Variation 2: Answer the following question: What is the capital of Russia?
+75,Factual Q&A,Variation 2: Answer the following question: What is the capital of South Korea?
+76,Factual Q&A,Variation 2: Answer the following question: What is the capital of Argentina?
+77,Factual Q&A,Variation 2: Answer the following question: What is the capital of Netherlands?
+78,Factual Q&A,Variation 2: Answer the following question: What is the capital of Turkey?
+79,Factual Q&A,Variation 2: Answer the following question: What is the capital of Sweden?
+80,Factual Q&A,Variation 2: Answer the following question: What is the capital of Norway?
+81,Translation (French),"Variation 2: Translate to French: Hello, how are you?"
+82,Translation (French),Variation 2: Translate to French: Thank you very much.
+83,Translation (French),Variation 2: Translate to French: Where is the train station?
+84,Translation (French),"Variation 2: Translate to French: Good morning, friend."
+85,Translation (French),Variation 2: Translate to French: What time is it?
+86,Translation (French),Variation 2: Translate to French: I would like a coffee.
+87,Translation (French),Variation 2: Translate to French: Have a nice day!
+88,Translation (French),Variation 2: Translate to French: Nice to meet you.
+89,Translation (French),Variation 2: Translate to French: Where is the hotel?
+90,Translation (French),Variation 2: Translate to French: Can you help me?
+91,Translation (Spanish),"Variation 2: Translate to Spanish: Hello, how are you?"
+92,Translation (Spanish),Variation 2: Translate to Spanish: Thank you very much.
+93,Translation (Spanish),Variation 2: Translate to Spanish: Where is the train station?
+94,Translation (Spanish),"Variation 2: Translate to Spanish: Good morning, friend."
+95,Translation (Spanish),Variation 2: Translate to Spanish: What time is it?
+96,Translation (Spanish),Variation 2: Translate to Spanish: I would like a coffee.
+97,Translation (Spanish),Variation 2: Translate to Spanish: Have a nice day!
+98,Translation (Spanish),Variation 2: Translate to Spanish: Nice to meet you.
+99,Translation (Spanish),Variation 2: Translate to Spanish: Where is the hotel?
+100,Translation (Spanish),Variation 2: Translate to Spanish: Can you help me?
+101,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+102,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+103,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+104,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+105,Sentiment Analysis,"Variation 3: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+106,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+107,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+108,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Waste of money.
+109,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+110,Sentiment Analysis,Variation 3: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+111,Arithmetic,Variation 3: Solve this math problem: What is 5 plus 7?
+112,Arithmetic,Variation 3: Solve this math problem: What is 12 minus 4?
+113,Arithmetic,Variation 3: Solve this math problem: What is 3 times 6?
+114,Arithmetic,Variation 3: Solve this math problem: What is 20 divided by 4?
+115,Arithmetic,Variation 3: Solve this math problem: What is 15 plus 15?
+116,Arithmetic,Variation 3: Solve this math problem: What is 50 minus 25?
+117,Arithmetic,Variation 3: Solve this math problem: What is 8 times 7?
+118,Arithmetic,Variation 3: Solve this math problem: What is 100 divided by 10?
+119,Arithmetic,Variation 3: Solve this math problem: What is 9 plus 14?
+120,Arithmetic,Variation 3: Solve this math problem: What is 45 minus 9?
+121,Factual Q&A,Variation 3: Answer the following question: What is the capital of France?
+122,Factual Q&A,Variation 3: Answer the following question: What is the capital of Germany?
+123,Factual Q&A,Variation 3: Answer the following question: What is the capital of Japan?
+124,Factual Q&A,Variation 3: Answer the following question: What is the capital of Italy?
+125,Factual Q&A,Variation 3: Answer the following question: What is the capital of Spain?
+126,Factual Q&A,Variation 3: Answer the following question: What is the capital of Canada?
+127,Factual Q&A,Variation 3: Answer the following question: What is the capital of Australia?
+128,Factual Q&A,Variation 3: Answer the following question: What is the capital of Brazil?
+129,Factual Q&A,Variation 3: Answer the following question: What is the capital of India?
+130,Factual Q&A,Variation 3: Answer the following question: What is the capital of China?
+131,Factual Q&A,Variation 3: Answer the following question: What is the capital of Mexico?
+132,Factual Q&A,Variation 3: Answer the following question: What is the capital of Egypt?
+133,Factual Q&A,Variation 3: Answer the following question: What is the capital of South Africa?
+134,Factual Q&A,Variation 3: Answer the following question: What is the capital of Russia?
+135,Factual Q&A,Variation 3: Answer the following question: What is the capital of South Korea?
+136,Factual Q&A,Variation 3: Answer the following question: What is the capital of Argentina?
+137,Factual Q&A,Variation 3: Answer the following question: What is the capital of Netherlands?
+138,Factual Q&A,Variation 3: Answer the following question: What is the capital of Turkey?
+139,Factual Q&A,Variation 3: Answer the following question: What is the capital of Sweden?
+140,Factual Q&A,Variation 3: Answer the following question: What is the capital of Norway?
+141,Translation (French),"Variation 3: Translate to French: Hello, how are you?"
+142,Translation (French),Variation 3: Translate to French: Thank you very much.
+143,Translation (French),Variation 3: Translate to French: Where is the train station?
+144,Translation (French),"Variation 3: Translate to French: Good morning, friend."
+145,Translation (French),Variation 3: Translate to French: What time is it?
+146,Translation (French),Variation 3: Translate to French: I would like a coffee.
+147,Translation (French),Variation 3: Translate to French: Have a nice day!
+148,Translation (French),Variation 3: Translate to French: Nice to meet you.
+149,Translation (French),Variation 3: Translate to French: Where is the hotel?
+150,Translation (French),Variation 3: Translate to French: Can you help me?
+151,Translation (Spanish),"Variation 4: Translate to Spanish: Hello, how are you?"
+152,Translation (Spanish),Variation 4: Translate to Spanish: Thank you very much.
+153,Translation (Spanish),Variation 4: Translate to Spanish: Where is the train station?
+154,Translation (Spanish),"Variation 4: Translate to Spanish: Good morning, friend."
+155,Translation (Spanish),Variation 4: Translate to Spanish: What time is it?
+156,Translation (Spanish),Variation 4: Translate to Spanish: I would like a coffee.
+157,Translation (Spanish),Variation 4: Translate to Spanish: Have a nice day!
+158,Translation (Spanish),Variation 4: Translate to Spanish: Nice to meet you.
+159,Translation (Spanish),Variation 4: Translate to Spanish: Where is the hotel?
+160,Translation (Spanish),Variation 4: Translate to Spanish: Can you help me?
+161,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+162,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+163,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+164,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+165,Sentiment Analysis,"Variation 4: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+166,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+167,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+168,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Waste of money.
+169,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+170,Sentiment Analysis,Variation 4: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+171,Arithmetic,Variation 4: Solve this math problem: What is 5 plus 7?
+172,Arithmetic,Variation 4: Solve this math problem: What is 12 minus 4?
+173,Arithmetic,Variation 4: Solve this math problem: What is 3 times 6?
+174,Arithmetic,Variation 4: Solve this math problem: What is 20 divided by 4?
+175,Arithmetic,Variation 4: Solve this math problem: What is 15 plus 15?
+176,Arithmetic,Variation 4: Solve this math problem: What is 50 minus 25?
+177,Arithmetic,Variation 4: Solve this math problem: What is 8 times 7?
+178,Arithmetic,Variation 4: Solve this math problem: What is 100 divided by 10?
+179,Arithmetic,Variation 4: Solve this math problem: What is 9 plus 14?
+180,Arithmetic,Variation 4: Solve this math problem: What is 45 minus 9?
+181,Factual Q&A,Variation 4: Answer the following question: What is the capital of France?
+182,Factual Q&A,Variation 4: Answer the following question: What is the capital of Germany?
+183,Factual Q&A,Variation 4: Answer the following question: What is the capital of Japan?
+184,Factual Q&A,Variation 4: Answer the following question: What is the capital of Italy?
+185,Factual Q&A,Variation 4: Answer the following question: What is the capital of Spain?
+186,Factual Q&A,Variation 4: Answer the following question: What is the capital of Canada?
+187,Factual Q&A,Variation 4: Answer the following question: What is the capital of Australia?
+188,Factual Q&A,Variation 4: Answer the following question: What is the capital of Brazil?
+189,Factual Q&A,Variation 4: Answer the following question: What is the capital of India?
+190,Factual Q&A,Variation 4: Answer the following question: What is the capital of China?
+191,Factual Q&A,Variation 4: Answer the following question: What is the capital of Mexico?
+192,Factual Q&A,Variation 4: Answer the following question: What is the capital of Egypt?
+193,Factual Q&A,Variation 4: Answer the following question: What is the capital of South Africa?
+194,Factual Q&A,Variation 4: Answer the following question: What is the capital of Russia?
+195,Factual Q&A,Variation 4: Answer the following question: What is the capital of South Korea?
+196,Factual Q&A,Variation 4: Answer the following question: What is the capital of Argentina?
+197,Factual Q&A,Variation 4: Answer the following question: What is the capital of Netherlands?
+198,Factual Q&A,Variation 4: Answer the following question: What is the capital of Turkey?
+199,Factual Q&A,Variation 4: Answer the following question: What is the capital of Sweden?
+200,Factual Q&A,Variation 4: Answer the following question: What is the capital of Norway?
+201,Translation (French),"Variation 5: Translate to French: Hello, how are you?"
+202,Translation (French),Variation 5: Translate to French: Thank you very much.
+203,Translation (French),Variation 5: Translate to French: Where is the train station?
+204,Translation (French),"Variation 5: Translate to French: Good morning, friend."
+205,Translation (French),Variation 5: Translate to French: What time is it?
+206,Translation (French),Variation 5: Translate to French: I would like a coffee.
+207,Translation (French),Variation 5: Translate to French: Have a nice day!
+208,Translation (French),Variation 5: Translate to French: Nice to meet you.
+209,Translation (French),Variation 5: Translate to French: Where is the hotel?
+210,Translation (French),Variation 5: Translate to French: Can you help me?
+211,Translation (Spanish),"Variation 5: Translate to Spanish: Hello, how are you?"
+212,Translation (Spanish),Variation 5: Translate to Spanish: Thank you very much.
+213,Translation (Spanish),Variation 5: Translate to Spanish: Where is the train station?
+214,Translation (Spanish),"Variation 5: Translate to Spanish: Good morning, friend."
+215,Translation (Spanish),Variation 5: Translate to Spanish: What time is it?
+216,Translation (Spanish),Variation 5: Translate to Spanish: I would like a coffee.
+217,Translation (Spanish),Variation 5: Translate to Spanish: Have a nice day!
+218,Translation (Spanish),Variation 5: Translate to Spanish: Nice to meet you.
+219,Translation (Spanish),Variation 5: Translate to Spanish: Where is the hotel?
+220,Translation (Spanish),Variation 5: Translate to Spanish: Can you help me?
+221,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+222,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+223,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+224,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+225,Sentiment Analysis,"Variation 5: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+226,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+227,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+228,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Waste of money.
+229,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+230,Sentiment Analysis,Variation 5: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+231,Arithmetic,Variation 5: Solve this math problem: What is 5 plus 7?
+232,Arithmetic,Variation 5: Solve this math problem: What is 12 minus 4?
+233,Arithmetic,Variation 5: Solve this math problem: What is 3 times 6?
+234,Arithmetic,Variation 5: Solve this math problem: What is 20 divided by 4?
+235,Arithmetic,Variation 5: Solve this math problem: What is 15 plus 15?
+236,Arithmetic,Variation 5: Solve this math problem: What is 50 minus 25?
+237,Arithmetic,Variation 5: Solve this math problem: What is 8 times 7?
+238,Arithmetic,Variation 5: Solve this math problem: What is 100 divided by 10?
+239,Arithmetic,Variation 5: Solve this math problem: What is 9 plus 14?
+240,Arithmetic,Variation 5: Solve this math problem: What is 45 minus 9?
+241,Factual Q&A,Variation 5: Answer the following question: What is the capital of France?
+242,Factual Q&A,Variation 5: Answer the following question: What is the capital of Germany?
+243,Factual Q&A,Variation 5: Answer the following question: What is the capital of Japan?
+244,Factual Q&A,Variation 5: Answer the following question: What is the capital of Italy?
+245,Factual Q&A,Variation 5: Answer the following question: What is the capital of Spain?
+246,Factual Q&A,Variation 5: Answer the following question: What is the capital of Canada?
+247,Factual Q&A,Variation 5: Answer the following question: What is the capital of Australia?
+248,Factual Q&A,Variation 5: Answer the following question: What is the capital of Brazil?
+249,Factual Q&A,Variation 5: Answer the following question: What is the capital of India?
+250,Factual Q&A,Variation 5: Answer the following question: What is the capital of China?
+251,Factual Q&A,Variation 6: Answer the following question: What is the capital of Mexico?
+252,Factual Q&A,Variation 6: Answer the following question: What is the capital of Egypt?
+253,Factual Q&A,Variation 6: Answer the following question: What is the capital of South Africa?
+254,Factual Q&A,Variation 6: Answer the following question: What is the capital of Russia?
+255,Factual Q&A,Variation 6: Answer the following question: What is the capital of South Korea?
+256,Factual Q&A,Variation 6: Answer the following question: What is the capital of Argentina?
+257,Factual Q&A,Variation 6: Answer the following question: What is the capital of Netherlands?
+258,Factual Q&A,Variation 6: Answer the following question: What is the capital of Turkey?
+259,Factual Q&A,Variation 6: Answer the following question: What is the capital of Sweden?
+260,Factual Q&A,Variation 6: Answer the following question: What is the capital of Norway?
+261,Translation (French),"Variation 6: Translate to French: Hello, how are you?"
+262,Translation (French),Variation 6: Translate to French: Thank you very much.
+263,Translation (French),Variation 6: Translate to French: Where is the train station?
+264,Translation (French),"Variation 6: Translate to French: Good morning, friend."
+265,Translation (French),Variation 6: Translate to French: What time is it?
+266,Translation (French),Variation 6: Translate to French: I would like a coffee.
+267,Translation (French),Variation 6: Translate to French: Have a nice day!
+268,Translation (French),Variation 6: Translate to French: Nice to meet you.
+269,Translation (French),Variation 6: Translate to French: Where is the hotel?
+270,Translation (French),Variation 6: Translate to French: Can you help me?
+271,Translation (Spanish),"Variation 6: Translate to Spanish: Hello, how are you?"
+272,Translation (Spanish),Variation 6: Translate to Spanish: Thank you very much.
+273,Translation (Spanish),Variation 6: Translate to Spanish: Where is the train station?
+274,Translation (Spanish),"Variation 6: Translate to Spanish: Good morning, friend."
+275,Translation (Spanish),Variation 6: Translate to Spanish: What time is it?
+276,Translation (Spanish),Variation 6: Translate to Spanish: I would like a coffee.
+277,Translation (Spanish),Variation 6: Translate to Spanish: Have a nice day!
+278,Translation (Spanish),Variation 6: Translate to Spanish: Nice to meet you.
+279,Translation (Spanish),Variation 6: Translate to Spanish: Where is the hotel?
+280,Translation (Spanish),Variation 6: Translate to Spanish: Can you help me?
+281,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+282,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+283,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+284,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+285,Sentiment Analysis,"Variation 6: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+286,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+287,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+288,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Waste of money.
+289,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+290,Sentiment Analysis,Variation 6: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+291,Arithmetic,Variation 6: Solve this math problem: What is 5 plus 7?
+292,Arithmetic,Variation 6: Solve this math problem: What is 12 minus 4?
+293,Arithmetic,Variation 6: Solve this math problem: What is 3 times 6?
+294,Arithmetic,Variation 6: Solve this math problem: What is 20 divided by 4?
+295,Arithmetic,Variation 6: Solve this math problem: What is 15 plus 15?
+296,Arithmetic,Variation 6: Solve this math problem: What is 50 minus 25?
+297,Arithmetic,Variation 6: Solve this math problem: What is 8 times 7?
+298,Arithmetic,Variation 6: Solve this math problem: What is 100 divided by 10?
+299,Arithmetic,Variation 6: Solve this math problem: What is 9 plus 14?
+300,Arithmetic,Variation 6: Solve this math problem: What is 45 minus 9?
+301,Factual Q&A,Variation 7: Answer the following question: What is the capital of France?
+302,Factual Q&A,Variation 7: Answer the following question: What is the capital of Germany?
+303,Factual Q&A,Variation 7: Answer the following question: What is the capital of Japan?
+304,Factual Q&A,Variation 7: Answer the following question: What is the capital of Italy?
+305,Factual Q&A,Variation 7: Answer the following question: What is the capital of Spain?
+306,Factual Q&A,Variation 7: Answer the following question: What is the capital of Canada?
+307,Factual Q&A,Variation 7: Answer the following question: What is the capital of Australia?
+308,Factual Q&A,Variation 7: Answer the following question: What is the capital of Brazil?
+309,Factual Q&A,Variation 7: Answer the following question: What is the capital of India?
+310,Factual Q&A,Variation 7: Answer the following question: What is the capital of China?
+311,Factual Q&A,Variation 7: Answer the following question: What is the capital of Mexico?
+312,Factual Q&A,Variation 7: Answer the following question: What is the capital of Egypt?
+313,Factual Q&A,Variation 7: Answer the following question: What is the capital of South Africa?
+314,Factual Q&A,Variation 7: Answer the following question: What is the capital of Russia?
+315,Factual Q&A,Variation 7: Answer the following question: What is the capital of South Korea?
+316,Factual Q&A,Variation 7: Answer the following question: What is the capital of Argentina?
+317,Factual Q&A,Variation 7: Answer the following question: What is the capital of Netherlands?
+318,Factual Q&A,Variation 7: Answer the following question: What is the capital of Turkey?
+319,Factual Q&A,Variation 7: Answer the following question: What is the capital of Sweden?
+320,Factual Q&A,Variation 7: Answer the following question: What is the capital of Norway?
+321,Translation (French),"Variation 7: Translate to French: Hello, how are you?"
+322,Translation (French),Variation 7: Translate to French: Thank you very much.
+323,Translation (French),Variation 7: Translate to French: Where is the train station?
+324,Translation (French),"Variation 7: Translate to French: Good morning, friend."
+325,Translation (French),Variation 7: Translate to French: What time is it?
+326,Translation (French),Variation 7: Translate to French: I would like a coffee.
+327,Translation (French),Variation 7: Translate to French: Have a nice day!
+328,Translation (French),Variation 7: Translate to French: Nice to meet you.
+329,Translation (French),Variation 7: Translate to French: Where is the hotel?
+330,Translation (French),Variation 7: Translate to French: Can you help me?
+331,Translation (Spanish),"Variation 7: Translate to Spanish: Hello, how are you?"
+332,Translation (Spanish),Variation 7: Translate to Spanish: Thank you very much.
+333,Translation (Spanish),Variation 7: Translate to Spanish: Where is the train station?
+334,Translation (Spanish),"Variation 7: Translate to Spanish: Good morning, friend."
+335,Translation (Spanish),Variation 7: Translate to Spanish: What time is it?
+336,Translation (Spanish),Variation 7: Translate to Spanish: I would like a coffee.
+337,Translation (Spanish),Variation 7: Translate to Spanish: Have a nice day!
+338,Translation (Spanish),Variation 7: Translate to Spanish: Nice to meet you.
+339,Translation (Spanish),Variation 7: Translate to Spanish: Where is the hotel?
+340,Translation (Spanish),Variation 7: Translate to Spanish: Can you help me?
+341,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+342,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+343,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+344,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+345,Sentiment Analysis,"Variation 7: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+346,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+347,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+348,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Waste of money.
+349,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+350,Sentiment Analysis,Variation 7: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+351,Arithmetic,Variation 8: Solve this math problem: What is 5 plus 7?
+352,Arithmetic,Variation 8: Solve this math problem: What is 12 minus 4?
+353,Arithmetic,Variation 8: Solve this math problem: What is 3 times 6?
+354,Arithmetic,Variation 8: Solve this math problem: What is 20 divided by 4?
+355,Arithmetic,Variation 8: Solve this math problem: What is 15 plus 15?
+356,Arithmetic,Variation 8: Solve this math problem: What is 50 minus 25?
+357,Arithmetic,Variation 8: Solve this math problem: What is 8 times 7?
+358,Arithmetic,Variation 8: Solve this math problem: What is 100 divided by 10?
+359,Arithmetic,Variation 8: Solve this math problem: What is 9 plus 14?
+360,Arithmetic,Variation 8: Solve this math problem: What is 45 minus 9?
+361,Factual Q&A,Variation 8: Answer the following question: What is the capital of France?
+362,Factual Q&A,Variation 8: Answer the following question: What is the capital of Germany?
+363,Factual Q&A,Variation 8: Answer the following question: What is the capital of Japan?
+364,Factual Q&A,Variation 8: Answer the following question: What is the capital of Italy?
+365,Factual Q&A,Variation 8: Answer the following question: What is the capital of Spain?
+366,Factual Q&A,Variation 8: Answer the following question: What is the capital of Canada?
+367,Factual Q&A,Variation 8: Answer the following question: What is the capital of Australia?
+368,Factual Q&A,Variation 8: Answer the following question: What is the capital of Brazil?
+369,Factual Q&A,Variation 8: Answer the following question: What is the capital of India?
+370,Factual Q&A,Variation 8: Answer the following question: What is the capital of China?
+371,Factual Q&A,Variation 8: Answer the following question: What is the capital of Mexico?
+372,Factual Q&A,Variation 8: Answer the following question: What is the capital of Egypt?
+373,Factual Q&A,Variation 8: Answer the following question: What is the capital of South Africa?
+374,Factual Q&A,Variation 8: Answer the following question: What is the capital of Russia?
+375,Factual Q&A,Variation 8: Answer the following question: What is the capital of South Korea?
+376,Factual Q&A,Variation 8: Answer the following question: What is the capital of Argentina?
+377,Factual Q&A,Variation 8: Answer the following question: What is the capital of Netherlands?
+378,Factual Q&A,Variation 8: Answer the following question: What is the capital of Turkey?
+379,Factual Q&A,Variation 8: Answer the following question: What is the capital of Sweden?
+380,Factual Q&A,Variation 8: Answer the following question: What is the capital of Norway?
+381,Translation (French),"Variation 8: Translate to French: Hello, how are you?"
+382,Translation (French),Variation 8: Translate to French: Thank you very much.
+383,Translation (French),Variation 8: Translate to French: Where is the train station?
+384,Translation (French),"Variation 8: Translate to French: Good morning, friend."
+385,Translation (French),Variation 8: Translate to French: What time is it?
+386,Translation (French),Variation 8: Translate to French: I would like a coffee.
+387,Translation (French),Variation 8: Translate to French: Have a nice day!
+388,Translation (French),Variation 8: Translate to French: Nice to meet you.
+389,Translation (French),Variation 8: Translate to French: Where is the hotel?
+390,Translation (French),Variation 8: Translate to French: Can you help me?
+391,Translation (Spanish),"Variation 8: Translate to Spanish: Hello, how are you?"
+392,Translation (Spanish),Variation 8: Translate to Spanish: Thank you very much.
+393,Translation (Spanish),Variation 8: Translate to Spanish: Where is the train station?
+394,Translation (Spanish),"Variation 8: Translate to Spanish: Good morning, friend."
+395,Translation (Spanish),Variation 8: Translate to Spanish: What time is it?
+396,Translation (Spanish),Variation 8: Translate to Spanish: I would like a coffee.
+397,Translation (Spanish),Variation 8: Translate to Spanish: Have a nice day!
+398,Translation (Spanish),Variation 8: Translate to Spanish: Nice to meet you.
+399,Translation (Spanish),Variation 8: Translate to Spanish: Where is the hotel?
+400,Translation (Spanish),Variation 8: Translate to Spanish: Can you help me?
+401,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+402,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+403,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+404,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+405,Sentiment Analysis,"Variation 9: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+406,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+407,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+408,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Waste of money.
+409,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+410,Sentiment Analysis,Variation 9: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+411,Arithmetic,Variation 9: Solve this math problem: What is 5 plus 7?
+412,Arithmetic,Variation 9: Solve this math problem: What is 12 minus 4?
+413,Arithmetic,Variation 9: Solve this math problem: What is 3 times 6?
+414,Arithmetic,Variation 9: Solve this math problem: What is 20 divided by 4?
+415,Arithmetic,Variation 9: Solve this math problem: What is 15 plus 15?
+416,Arithmetic,Variation 9: Solve this math problem: What is 50 minus 25?
+417,Arithmetic,Variation 9: Solve this math problem: What is 8 times 7?
+418,Arithmetic,Variation 9: Solve this math problem: What is 100 divided by 10?
+419,Arithmetic,Variation 9: Solve this math problem: What is 9 plus 14?
+420,Arithmetic,Variation 9: Solve this math problem: What is 45 minus 9?
+421,Factual Q&A,Variation 9: Answer the following question: What is the capital of France?
+422,Factual Q&A,Variation 9: Answer the following question: What is the capital of Germany?
+423,Factual Q&A,Variation 9: Answer the following question: What is the capital of Japan?
+424,Factual Q&A,Variation 9: Answer the following question: What is the capital of Italy?
+425,Factual Q&A,Variation 9: Answer the following question: What is the capital of Spain?
+426,Factual Q&A,Variation 9: Answer the following question: What is the capital of Canada?
+427,Factual Q&A,Variation 9: Answer the following question: What is the capital of Australia?
+428,Factual Q&A,Variation 9: Answer the following question: What is the capital of Brazil?
+429,Factual Q&A,Variation 9: Answer the following question: What is the capital of India?
+430,Factual Q&A,Variation 9: Answer the following question: What is the capital of China?
+431,Factual Q&A,Variation 9: Answer the following question: What is the capital of Mexico?
+432,Factual Q&A,Variation 9: Answer the following question: What is the capital of Egypt?
+433,Factual Q&A,Variation 9: Answer the following question: What is the capital of South Africa?
+434,Factual Q&A,Variation 9: Answer the following question: What is the capital of Russia?
+435,Factual Q&A,Variation 9: Answer the following question: What is the capital of South Korea?
+436,Factual Q&A,Variation 9: Answer the following question: What is the capital of Argentina?
+437,Factual Q&A,Variation 9: Answer the following question: What is the capital of Netherlands?
+438,Factual Q&A,Variation 9: Answer the following question: What is the capital of Turkey?
+439,Factual Q&A,Variation 9: Answer the following question: What is the capital of Sweden?
+440,Factual Q&A,Variation 9: Answer the following question: What is the capital of Norway?
+441,Translation (French),"Variation 9: Translate to French: Hello, how are you?"
+442,Translation (French),Variation 9: Translate to French: Thank you very much.
+443,Translation (French),Variation 9: Translate to French: Where is the train station?
+444,Translation (French),"Variation 9: Translate to French: Good morning, friend."
+445,Translation (French),Variation 9: Translate to French: What time is it?
+446,Translation (French),Variation 9: Translate to French: I would like a coffee.
+447,Translation (French),Variation 9: Translate to French: Have a nice day!
+448,Translation (French),Variation 9: Translate to French: Nice to meet you.
+449,Translation (French),Variation 9: Translate to French: Where is the hotel?
+450,Translation (French),Variation 9: Translate to French: Can you help me?
+451,Translation (Spanish),"Variation 10: Translate to Spanish: Hello, how are you?"
+452,Translation (Spanish),Variation 10: Translate to Spanish: Thank you very much.
+453,Translation (Spanish),Variation 10: Translate to Spanish: Where is the train station?
+454,Translation (Spanish),"Variation 10: Translate to Spanish: Good morning, friend."
+455,Translation (Spanish),Variation 10: Translate to Spanish: What time is it?
+456,Translation (Spanish),Variation 10: Translate to Spanish: I would like a coffee.
+457,Translation (Spanish),Variation 10: Translate to Spanish: Have a nice day!
+458,Translation (Spanish),Variation 10: Translate to Spanish: Nice to meet you.
+459,Translation (Spanish),Variation 10: Translate to Spanish: Where is the hotel?
+460,Translation (Spanish),Variation 10: Translate to Spanish: Can you help me?
+461,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+462,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+463,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+464,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+465,Sentiment Analysis,"Variation 10: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+466,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+467,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+468,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Waste of money.
+469,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+470,Sentiment Analysis,Variation 10: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+471,Arithmetic,Variation 10: Solve this math problem: What is 5 plus 7?
+472,Arithmetic,Variation 10: Solve this math problem: What is 12 minus 4?
+473,Arithmetic,Variation 10: Solve this math problem: What is 3 times 6?
+474,Arithmetic,Variation 10: Solve this math problem: What is 20 divided by 4?
+475,Arithmetic,Variation 10: Solve this math problem: What is 15 plus 15?
+476,Arithmetic,Variation 10: Solve this math problem: What is 50 minus 25?
+477,Arithmetic,Variation 10: Solve this math problem: What is 8 times 7?
+478,Arithmetic,Variation 10: Solve this math problem: What is 100 divided by 10?
+479,Arithmetic,Variation 10: Solve this math problem: What is 9 plus 14?
+480,Arithmetic,Variation 10: Solve this math problem: What is 45 minus 9?
+481,Factual Q&A,Variation 10: Answer the following question: What is the capital of France?
+482,Factual Q&A,Variation 10: Answer the following question: What is the capital of Germany?
+483,Factual Q&A,Variation 10: Answer the following question: What is the capital of Japan?
+484,Factual Q&A,Variation 10: Answer the following question: What is the capital of Italy?
+485,Factual Q&A,Variation 10: Answer the following question: What is the capital of Spain?
+486,Factual Q&A,Variation 10: Answer the following question: What is the capital of Canada?
+487,Factual Q&A,Variation 10: Answer the following question: What is the capital of Australia?
+488,Factual Q&A,Variation 10: Answer the following question: What is the capital of Brazil?
+489,Factual Q&A,Variation 10: Answer the following question: What is the capital of India?
+490,Factual Q&A,Variation 10: Answer the following question: What is the capital of China?
+491,Factual Q&A,Variation 10: Answer the following question: What is the capital of Mexico?
+492,Factual Q&A,Variation 10: Answer the following question: What is the capital of Egypt?
+493,Factual Q&A,Variation 10: Answer the following question: What is the capital of South Africa?
+494,Factual Q&A,Variation 10: Answer the following question: What is the capital of Russia?
+495,Factual Q&A,Variation 10: Answer the following question: What is the capital of South Korea?
+496,Factual Q&A,Variation 10: Answer the following question: What is the capital of Argentina?
+497,Factual Q&A,Variation 10: Answer the following question: What is the capital of Netherlands?
+498,Factual Q&A,Variation 10: Answer the following question: What is the capital of Turkey?
+499,Factual Q&A,Variation 10: Answer the following question: What is the capital of Sweden?
+500,Factual Q&A,Variation 10: Answer the following question: What is the capital of Norway?
+501,Translation (French),"Variation 11: Translate to French: Hello, how are you?"
+502,Translation (French),Variation 11: Translate to French: Thank you very much.
+503,Translation (French),Variation 11: Translate to French: Where is the train station?
+504,Translation (French),"Variation 11: Translate to French: Good morning, friend."
+505,Translation (French),Variation 11: Translate to French: What time is it?
+506,Translation (French),Variation 11: Translate to French: I would like a coffee.
+507,Translation (French),Variation 11: Translate to French: Have a nice day!
+508,Translation (French),Variation 11: Translate to French: Nice to meet you.
+509,Translation (French),Variation 11: Translate to French: Where is the hotel?
+510,Translation (French),Variation 11: Translate to French: Can you help me?
+511,Translation (Spanish),"Variation 11: Translate to Spanish: Hello, how are you?"
+512,Translation (Spanish),Variation 11: Translate to Spanish: Thank you very much.
+513,Translation (Spanish),Variation 11: Translate to Spanish: Where is the train station?
+514,Translation (Spanish),"Variation 11: Translate to Spanish: Good morning, friend."
+515,Translation (Spanish),Variation 11: Translate to Spanish: What time is it?
+516,Translation (Spanish),Variation 11: Translate to Spanish: I would like a coffee.
+517,Translation (Spanish),Variation 11: Translate to Spanish: Have a nice day!
+518,Translation (Spanish),Variation 11: Translate to Spanish: Nice to meet you.
+519,Translation (Spanish),Variation 11: Translate to Spanish: Where is the hotel?
+520,Translation (Spanish),Variation 11: Translate to Spanish: Can you help me?
+521,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+522,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+523,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+524,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+525,Sentiment Analysis,"Variation 11: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+526,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+527,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+528,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Waste of money.
+529,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+530,Sentiment Analysis,Variation 11: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+531,Arithmetic,Variation 11: Solve this math problem: What is 5 plus 7?
+532,Arithmetic,Variation 11: Solve this math problem: What is 12 minus 4?
+533,Arithmetic,Variation 11: Solve this math problem: What is 3 times 6?
+534,Arithmetic,Variation 11: Solve this math problem: What is 20 divided by 4?
+535,Arithmetic,Variation 11: Solve this math problem: What is 15 plus 15?
+536,Arithmetic,Variation 11: Solve this math problem: What is 50 minus 25?
+537,Arithmetic,Variation 11: Solve this math problem: What is 8 times 7?
+538,Arithmetic,Variation 11: Solve this math problem: What is 100 divided by 10?
+539,Arithmetic,Variation 11: Solve this math problem: What is 9 plus 14?
+540,Arithmetic,Variation 11: Solve this math problem: What is 45 minus 9?
+541,Factual Q&A,Variation 11: Answer the following question: What is the capital of France?
+542,Factual Q&A,Variation 11: Answer the following question: What is the capital of Germany?
+543,Factual Q&A,Variation 11: Answer the following question: What is the capital of Japan?
+544,Factual Q&A,Variation 11: Answer the following question: What is the capital of Italy?
+545,Factual Q&A,Variation 11: Answer the following question: What is the capital of Spain?
+546,Factual Q&A,Variation 11: Answer the following question: What is the capital of Canada?
+547,Factual Q&A,Variation 11: Answer the following question: What is the capital of Australia?
+548,Factual Q&A,Variation 11: Answer the following question: What is the capital of Brazil?
+549,Factual Q&A,Variation 11: Answer the following question: What is the capital of India?
+550,Factual Q&A,Variation 11: Answer the following question: What is the capital of China?
+551,Factual Q&A,Variation 12: Answer the following question: What is the capital of Mexico?
+552,Factual Q&A,Variation 12: Answer the following question: What is the capital of Egypt?
+553,Factual Q&A,Variation 12: Answer the following question: What is the capital of South Africa?
+554,Factual Q&A,Variation 12: Answer the following question: What is the capital of Russia?
+555,Factual Q&A,Variation 12: Answer the following question: What is the capital of South Korea?
+556,Factual Q&A,Variation 12: Answer the following question: What is the capital of Argentina?
+557,Factual Q&A,Variation 12: Answer the following question: What is the capital of Netherlands?
+558,Factual Q&A,Variation 12: Answer the following question: What is the capital of Turkey?
+559,Factual Q&A,Variation 12: Answer the following question: What is the capital of Sweden?
+560,Factual Q&A,Variation 12: Answer the following question: What is the capital of Norway?
+561,Translation (French),"Variation 12: Translate to French: Hello, how are you?"
+562,Translation (French),Variation 12: Translate to French: Thank you very much.
+563,Translation (French),Variation 12: Translate to French: Where is the train station?
+564,Translation (French),"Variation 12: Translate to French: Good morning, friend."
+565,Translation (French),Variation 12: Translate to French: What time is it?
+566,Translation (French),Variation 12: Translate to French: I would like a coffee.
+567,Translation (French),Variation 12: Translate to French: Have a nice day!
+568,Translation (French),Variation 12: Translate to French: Nice to meet you.
+569,Translation (French),Variation 12: Translate to French: Where is the hotel?
+570,Translation (French),Variation 12: Translate to French: Can you help me?
+571,Translation (Spanish),"Variation 12: Translate to Spanish: Hello, how are you?"
+572,Translation (Spanish),Variation 12: Translate to Spanish: Thank you very much.
+573,Translation (Spanish),Variation 12: Translate to Spanish: Where is the train station?
+574,Translation (Spanish),"Variation 12: Translate to Spanish: Good morning, friend."
+575,Translation (Spanish),Variation 12: Translate to Spanish: What time is it?
+576,Translation (Spanish),Variation 12: Translate to Spanish: I would like a coffee.
+577,Translation (Spanish),Variation 12: Translate to Spanish: Have a nice day!
+578,Translation (Spanish),Variation 12: Translate to Spanish: Nice to meet you.
+579,Translation (Spanish),Variation 12: Translate to Spanish: Where is the hotel?
+580,Translation (Spanish),Variation 12: Translate to Spanish: Can you help me?
+581,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+582,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+583,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+584,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+585,Sentiment Analysis,"Variation 12: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+586,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+587,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+588,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Waste of money.
+589,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+590,Sentiment Analysis,Variation 12: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+591,Arithmetic,Variation 12: Solve this math problem: What is 5 plus 7?
+592,Arithmetic,Variation 12: Solve this math problem: What is 12 minus 4?
+593,Arithmetic,Variation 12: Solve this math problem: What is 3 times 6?
+594,Arithmetic,Variation 12: Solve this math problem: What is 20 divided by 4?
+595,Arithmetic,Variation 12: Solve this math problem: What is 15 plus 15?
+596,Arithmetic,Variation 12: Solve this math problem: What is 50 minus 25?
+597,Arithmetic,Variation 12: Solve this math problem: What is 8 times 7?
+598,Arithmetic,Variation 12: Solve this math problem: What is 100 divided by 10?
+599,Arithmetic,Variation 12: Solve this math problem: What is 9 plus 14?
+600,Arithmetic,Variation 12: Solve this math problem: What is 45 minus 9?
+601,Factual Q&A,Variation 13: Answer the following question: What is the capital of France?
+602,Factual Q&A,Variation 13: Answer the following question: What is the capital of Germany?
+603,Factual Q&A,Variation 13: Answer the following question: What is the capital of Japan?
+604,Factual Q&A,Variation 13: Answer the following question: What is the capital of Italy?
+605,Factual Q&A,Variation 13: Answer the following question: What is the capital of Spain?
+606,Factual Q&A,Variation 13: Answer the following question: What is the capital of Canada?
+607,Factual Q&A,Variation 13: Answer the following question: What is the capital of Australia?
+608,Factual Q&A,Variation 13: Answer the following question: What is the capital of Brazil?
+609,Factual Q&A,Variation 13: Answer the following question: What is the capital of India?
+610,Factual Q&A,Variation 13: Answer the following question: What is the capital of China?
+611,Factual Q&A,Variation 13: Answer the following question: What is the capital of Mexico?
+612,Factual Q&A,Variation 13: Answer the following question: What is the capital of Egypt?
+613,Factual Q&A,Variation 13: Answer the following question: What is the capital of South Africa?
+614,Factual Q&A,Variation 13: Answer the following question: What is the capital of Russia?
+615,Factual Q&A,Variation 13: Answer the following question: What is the capital of South Korea?
+616,Factual Q&A,Variation 13: Answer the following question: What is the capital of Argentina?
+617,Factual Q&A,Variation 13: Answer the following question: What is the capital of Netherlands?
+618,Factual Q&A,Variation 13: Answer the following question: What is the capital of Turkey?
+619,Factual Q&A,Variation 13: Answer the following question: What is the capital of Sweden?
+620,Factual Q&A,Variation 13: Answer the following question: What is the capital of Norway?
+621,Translation (French),"Variation 13: Translate to French: Hello, how are you?"
+622,Translation (French),Variation 13: Translate to French: Thank you very much.
+623,Translation (French),Variation 13: Translate to French: Where is the train station?
+624,Translation (French),"Variation 13: Translate to French: Good morning, friend."
+625,Translation (French),Variation 13: Translate to French: What time is it?
+626,Translation (French),Variation 13: Translate to French: I would like a coffee.
+627,Translation (French),Variation 13: Translate to French: Have a nice day!
+628,Translation (French),Variation 13: Translate to French: Nice to meet you.
+629,Translation (French),Variation 13: Translate to French: Where is the hotel?
+630,Translation (French),Variation 13: Translate to French: Can you help me?
+631,Translation (Spanish),"Variation 13: Translate to Spanish: Hello, how are you?"
+632,Translation (Spanish),Variation 13: Translate to Spanish: Thank you very much.
+633,Translation (Spanish),Variation 13: Translate to Spanish: Where is the train station?
+634,Translation (Spanish),"Variation 13: Translate to Spanish: Good morning, friend."
+635,Translation (Spanish),Variation 13: Translate to Spanish: What time is it?
+636,Translation (Spanish),Variation 13: Translate to Spanish: I would like a coffee.
+637,Translation (Spanish),Variation 13: Translate to Spanish: Have a nice day!
+638,Translation (Spanish),Variation 13: Translate to Spanish: Nice to meet you.
+639,Translation (Spanish),Variation 13: Translate to Spanish: Where is the hotel?
+640,Translation (Spanish),Variation 13: Translate to Spanish: Can you help me?
+641,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+642,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+643,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+644,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+645,Sentiment Analysis,"Variation 13: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+646,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+647,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+648,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Waste of money.
+649,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+650,Sentiment Analysis,Variation 13: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+651,Arithmetic,Variation 14: Solve this math problem: What is 5 plus 7?
+652,Arithmetic,Variation 14: Solve this math problem: What is 12 minus 4?
+653,Arithmetic,Variation 14: Solve this math problem: What is 3 times 6?
+654,Arithmetic,Variation 14: Solve this math problem: What is 20 divided by 4?
+655,Arithmetic,Variation 14: Solve this math problem: What is 15 plus 15?
+656,Arithmetic,Variation 14: Solve this math problem: What is 50 minus 25?
+657,Arithmetic,Variation 14: Solve this math problem: What is 8 times 7?
+658,Arithmetic,Variation 14: Solve this math problem: What is 100 divided by 10?
+659,Arithmetic,Variation 14: Solve this math problem: What is 9 plus 14?
+660,Arithmetic,Variation 14: Solve this math problem: What is 45 minus 9?
+661,Factual Q&A,Variation 14: Answer the following question: What is the capital of France?
+662,Factual Q&A,Variation 14: Answer the following question: What is the capital of Germany?
+663,Factual Q&A,Variation 14: Answer the following question: What is the capital of Japan?
+664,Factual Q&A,Variation 14: Answer the following question: What is the capital of Italy?
+665,Factual Q&A,Variation 14: Answer the following question: What is the capital of Spain?
+666,Factual Q&A,Variation 14: Answer the following question: What is the capital of Canada?
+667,Factual Q&A,Variation 14: Answer the following question: What is the capital of Australia?
+668,Factual Q&A,Variation 14: Answer the following question: What is the capital of Brazil?
+669,Factual Q&A,Variation 14: Answer the following question: What is the capital of India?
+670,Factual Q&A,Variation 14: Answer the following question: What is the capital of China?
+671,Factual Q&A,Variation 14: Answer the following question: What is the capital of Mexico?
+672,Factual Q&A,Variation 14: Answer the following question: What is the capital of Egypt?
+673,Factual Q&A,Variation 14: Answer the following question: What is the capital of South Africa?
+674,Factual Q&A,Variation 14: Answer the following question: What is the capital of Russia?
+675,Factual Q&A,Variation 14: Answer the following question: What is the capital of South Korea?
+676,Factual Q&A,Variation 14: Answer the following question: What is the capital of Argentina?
+677,Factual Q&A,Variation 14: Answer the following question: What is the capital of Netherlands?
+678,Factual Q&A,Variation 14: Answer the following question: What is the capital of Turkey?
+679,Factual Q&A,Variation 14: Answer the following question: What is the capital of Sweden?
+680,Factual Q&A,Variation 14: Answer the following question: What is the capital of Norway?
+681,Translation (French),"Variation 14: Translate to French: Hello, how are you?"
+682,Translation (French),Variation 14: Translate to French: Thank you very much.
+683,Translation (French),Variation 14: Translate to French: Where is the train station?
+684,Translation (French),"Variation 14: Translate to French: Good morning, friend."
+685,Translation (French),Variation 14: Translate to French: What time is it?
+686,Translation (French),Variation 14: Translate to French: I would like a coffee.
+687,Translation (French),Variation 14: Translate to French: Have a nice day!
+688,Translation (French),Variation 14: Translate to French: Nice to meet you.
+689,Translation (French),Variation 14: Translate to French: Where is the hotel?
+690,Translation (French),Variation 14: Translate to French: Can you help me?
+691,Translation (Spanish),"Variation 14: Translate to Spanish: Hello, how are you?"
+692,Translation (Spanish),Variation 14: Translate to Spanish: Thank you very much.
+693,Translation (Spanish),Variation 14: Translate to Spanish: Where is the train station?
+694,Translation (Spanish),"Variation 14: Translate to Spanish: Good morning, friend."
+695,Translation (Spanish),Variation 14: Translate to Spanish: What time is it?
+696,Translation (Spanish),Variation 14: Translate to Spanish: I would like a coffee.
+697,Translation (Spanish),Variation 14: Translate to Spanish: Have a nice day!
+698,Translation (Spanish),Variation 14: Translate to Spanish: Nice to meet you.
+699,Translation (Spanish),Variation 14: Translate to Spanish: Where is the hotel?
+700,Translation (Spanish),Variation 14: Translate to Spanish: Can you help me?
+701,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+702,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+703,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+704,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+705,Sentiment Analysis,"Variation 15: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+706,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+707,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+708,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Waste of money.
+709,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+710,Sentiment Analysis,Variation 15: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+711,Arithmetic,Variation 15: Solve this math problem: What is 5 plus 7?
+712,Arithmetic,Variation 15: Solve this math problem: What is 12 minus 4?
+713,Arithmetic,Variation 15: Solve this math problem: What is 3 times 6?
+714,Arithmetic,Variation 15: Solve this math problem: What is 20 divided by 4?
+715,Arithmetic,Variation 15: Solve this math problem: What is 15 plus 15?
+716,Arithmetic,Variation 15: Solve this math problem: What is 50 minus 25?
+717,Arithmetic,Variation 15: Solve this math problem: What is 8 times 7?
+718,Arithmetic,Variation 15: Solve this math problem: What is 100 divided by 10?
+719,Arithmetic,Variation 15: Solve this math problem: What is 9 plus 14?
+720,Arithmetic,Variation 15: Solve this math problem: What is 45 minus 9?
+721,Factual Q&A,Variation 15: Answer the following question: What is the capital of France?
+722,Factual Q&A,Variation 15: Answer the following question: What is the capital of Germany?
+723,Factual Q&A,Variation 15: Answer the following question: What is the capital of Japan?
+724,Factual Q&A,Variation 15: Answer the following question: What is the capital of Italy?
+725,Factual Q&A,Variation 15: Answer the following question: What is the capital of Spain?
+726,Factual Q&A,Variation 15: Answer the following question: What is the capital of Canada?
+727,Factual Q&A,Variation 15: Answer the following question: What is the capital of Australia?
+728,Factual Q&A,Variation 15: Answer the following question: What is the capital of Brazil?
+729,Factual Q&A,Variation 15: Answer the following question: What is the capital of India?
+730,Factual Q&A,Variation 15: Answer the following question: What is the capital of China?
+731,Factual Q&A,Variation 15: Answer the following question: What is the capital of Mexico?
+732,Factual Q&A,Variation 15: Answer the following question: What is the capital of Egypt?
+733,Factual Q&A,Variation 15: Answer the following question: What is the capital of South Africa?
+734,Factual Q&A,Variation 15: Answer the following question: What is the capital of Russia?
+735,Factual Q&A,Variation 15: Answer the following question: What is the capital of South Korea?
+736,Factual Q&A,Variation 15: Answer the following question: What is the capital of Argentina?
+737,Factual Q&A,Variation 15: Answer the following question: What is the capital of Netherlands?
+738,Factual Q&A,Variation 15: Answer the following question: What is the capital of Turkey?
+739,Factual Q&A,Variation 15: Answer the following question: What is the capital of Sweden?
+740,Factual Q&A,Variation 15: Answer the following question: What is the capital of Norway?
+741,Translation (French),"Variation 15: Translate to French: Hello, how are you?"
+742,Translation (French),Variation 15: Translate to French: Thank you very much.
+743,Translation (French),Variation 15: Translate to French: Where is the train station?
+744,Translation (French),"Variation 15: Translate to French: Good morning, friend."
+745,Translation (French),Variation 15: Translate to French: What time is it?
+746,Translation (French),Variation 15: Translate to French: I would like a coffee.
+747,Translation (French),Variation 15: Translate to French: Have a nice day!
+748,Translation (French),Variation 15: Translate to French: Nice to meet you.
+749,Translation (French),Variation 15: Translate to French: Where is the hotel?
+750,Translation (French),Variation 15: Translate to French: Can you help me?
+751,Translation (Spanish),"Variation 16: Translate to Spanish: Hello, how are you?"
+752,Translation (Spanish),Variation 16: Translate to Spanish: Thank you very much.
+753,Translation (Spanish),Variation 16: Translate to Spanish: Where is the train station?
+754,Translation (Spanish),"Variation 16: Translate to Spanish: Good morning, friend."
+755,Translation (Spanish),Variation 16: Translate to Spanish: What time is it?
+756,Translation (Spanish),Variation 16: Translate to Spanish: I would like a coffee.
+757,Translation (Spanish),Variation 16: Translate to Spanish: Have a nice day!
+758,Translation (Spanish),Variation 16: Translate to Spanish: Nice to meet you.
+759,Translation (Spanish),Variation 16: Translate to Spanish: Where is the hotel?
+760,Translation (Spanish),Variation 16: Translate to Spanish: Can you help me?
+761,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+762,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+763,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+764,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+765,Sentiment Analysis,"Variation 16: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+766,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+767,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+768,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Waste of money.
+769,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+770,Sentiment Analysis,Variation 16: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+771,Arithmetic,Variation 16: Solve this math problem: What is 5 plus 7?
+772,Arithmetic,Variation 16: Solve this math problem: What is 12 minus 4?
+773,Arithmetic,Variation 16: Solve this math problem: What is 3 times 6?
+774,Arithmetic,Variation 16: Solve this math problem: What is 20 divided by 4?
+775,Arithmetic,Variation 16: Solve this math problem: What is 15 plus 15?
+776,Arithmetic,Variation 16: Solve this math problem: What is 50 minus 25?
+777,Arithmetic,Variation 16: Solve this math problem: What is 8 times 7?
+778,Arithmetic,Variation 16: Solve this math problem: What is 100 divided by 10?
+779,Arithmetic,Variation 16: Solve this math problem: What is 9 plus 14?
+780,Arithmetic,Variation 16: Solve this math problem: What is 45 minus 9?
+781,Factual Q&A,Variation 16: Answer the following question: What is the capital of France?
+782,Factual Q&A,Variation 16: Answer the following question: What is the capital of Germany?
+783,Factual Q&A,Variation 16: Answer the following question: What is the capital of Japan?
+784,Factual Q&A,Variation 16: Answer the following question: What is the capital of Italy?
+785,Factual Q&A,Variation 16: Answer the following question: What is the capital of Spain?
+786,Factual Q&A,Variation 16: Answer the following question: What is the capital of Canada?
+787,Factual Q&A,Variation 16: Answer the following question: What is the capital of Australia?
+788,Factual Q&A,Variation 16: Answer the following question: What is the capital of Brazil?
+789,Factual Q&A,Variation 16: Answer the following question: What is the capital of India?
+790,Factual Q&A,Variation 16: Answer the following question: What is the capital of China?
+791,Factual Q&A,Variation 16: Answer the following question: What is the capital of Mexico?
+792,Factual Q&A,Variation 16: Answer the following question: What is the capital of Egypt?
+793,Factual Q&A,Variation 16: Answer the following question: What is the capital of South Africa?
+794,Factual Q&A,Variation 16: Answer the following question: What is the capital of Russia?
+795,Factual Q&A,Variation 16: Answer the following question: What is the capital of South Korea?
+796,Factual Q&A,Variation 16: Answer the following question: What is the capital of Argentina?
+797,Factual Q&A,Variation 16: Answer the following question: What is the capital of Netherlands?
+798,Factual Q&A,Variation 16: Answer the following question: What is the capital of Turkey?
+799,Factual Q&A,Variation 16: Answer the following question: What is the capital of Sweden?
+800,Factual Q&A,Variation 16: Answer the following question: What is the capital of Norway?
+801,Translation (French),"Variation 17: Translate to French: Hello, how are you?"
+802,Translation (French),Variation 17: Translate to French: Thank you very much.
+803,Translation (French),Variation 17: Translate to French: Where is the train station?
+804,Translation (French),"Variation 17: Translate to French: Good morning, friend."
+805,Translation (French),Variation 17: Translate to French: What time is it?
+806,Translation (French),Variation 17: Translate to French: I would like a coffee.
+807,Translation (French),Variation 17: Translate to French: Have a nice day!
+808,Translation (French),Variation 17: Translate to French: Nice to meet you.
+809,Translation (French),Variation 17: Translate to French: Where is the hotel?
+810,Translation (French),Variation 17: Translate to French: Can you help me?
+811,Translation (Spanish),"Variation 17: Translate to Spanish: Hello, how are you?"
+812,Translation (Spanish),Variation 17: Translate to Spanish: Thank you very much.
+813,Translation (Spanish),Variation 17: Translate to Spanish: Where is the train station?
+814,Translation (Spanish),"Variation 17: Translate to Spanish: Good morning, friend."
+815,Translation (Spanish),Variation 17: Translate to Spanish: What time is it?
+816,Translation (Spanish),Variation 17: Translate to Spanish: I would like a coffee.
+817,Translation (Spanish),Variation 17: Translate to Spanish: Have a nice day!
+818,Translation (Spanish),Variation 17: Translate to Spanish: Nice to meet you.
+819,Translation (Spanish),Variation 17: Translate to Spanish: Where is the hotel?
+820,Translation (Spanish),Variation 17: Translate to Spanish: Can you help me?
+821,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+822,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+823,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+824,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+825,Sentiment Analysis,"Variation 17: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+826,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+827,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+828,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Waste of money.
+829,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+830,Sentiment Analysis,Variation 17: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+831,Arithmetic,Variation 17: Solve this math problem: What is 5 plus 7?
+832,Arithmetic,Variation 17: Solve this math problem: What is 12 minus 4?
+833,Arithmetic,Variation 17: Solve this math problem: What is 3 times 6?
+834,Arithmetic,Variation 17: Solve this math problem: What is 20 divided by 4?
+835,Arithmetic,Variation 17: Solve this math problem: What is 15 plus 15?
+836,Arithmetic,Variation 17: Solve this math problem: What is 50 minus 25?
+837,Arithmetic,Variation 17: Solve this math problem: What is 8 times 7?
+838,Arithmetic,Variation 17: Solve this math problem: What is 100 divided by 10?
+839,Arithmetic,Variation 17: Solve this math problem: What is 9 plus 14?
+840,Arithmetic,Variation 17: Solve this math problem: What is 45 minus 9?
+841,Factual Q&A,Variation 17: Answer the following question: What is the capital of France?
+842,Factual Q&A,Variation 17: Answer the following question: What is the capital of Germany?
+843,Factual Q&A,Variation 17: Answer the following question: What is the capital of Japan?
+844,Factual Q&A,Variation 17: Answer the following question: What is the capital of Italy?
+845,Factual Q&A,Variation 17: Answer the following question: What is the capital of Spain?
+846,Factual Q&A,Variation 17: Answer the following question: What is the capital of Canada?
+847,Factual Q&A,Variation 17: Answer the following question: What is the capital of Australia?
+848,Factual Q&A,Variation 17: Answer the following question: What is the capital of Brazil?
+849,Factual Q&A,Variation 17: Answer the following question: What is the capital of India?
+850,Factual Q&A,Variation 17: Answer the following question: What is the capital of China?
+851,Factual Q&A,Variation 18: Answer the following question: What is the capital of Mexico?
+852,Factual Q&A,Variation 18: Answer the following question: What is the capital of Egypt?
+853,Factual Q&A,Variation 18: Answer the following question: What is the capital of South Africa?
+854,Factual Q&A,Variation 18: Answer the following question: What is the capital of Russia?
+855,Factual Q&A,Variation 18: Answer the following question: What is the capital of South Korea?
+856,Factual Q&A,Variation 18: Answer the following question: What is the capital of Argentina?
+857,Factual Q&A,Variation 18: Answer the following question: What is the capital of Netherlands?
+858,Factual Q&A,Variation 18: Answer the following question: What is the capital of Turkey?
+859,Factual Q&A,Variation 18: Answer the following question: What is the capital of Sweden?
+860,Factual Q&A,Variation 18: Answer the following question: What is the capital of Norway?
+861,Translation (French),"Variation 18: Translate to French: Hello, how are you?"
+862,Translation (French),Variation 18: Translate to French: Thank you very much.
+863,Translation (French),Variation 18: Translate to French: Where is the train station?
+864,Translation (French),"Variation 18: Translate to French: Good morning, friend."
+865,Translation (French),Variation 18: Translate to French: What time is it?
+866,Translation (French),Variation 18: Translate to French: I would like a coffee.
+867,Translation (French),Variation 18: Translate to French: Have a nice day!
+868,Translation (French),Variation 18: Translate to French: Nice to meet you.
+869,Translation (French),Variation 18: Translate to French: Where is the hotel?
+870,Translation (French),Variation 18: Translate to French: Can you help me?
+871,Translation (Spanish),"Variation 18: Translate to Spanish: Hello, how are you?"
+872,Translation (Spanish),Variation 18: Translate to Spanish: Thank you very much.
+873,Translation (Spanish),Variation 18: Translate to Spanish: Where is the train station?
+874,Translation (Spanish),"Variation 18: Translate to Spanish: Good morning, friend."
+875,Translation (Spanish),Variation 18: Translate to Spanish: What time is it?
+876,Translation (Spanish),Variation 18: Translate to Spanish: I would like a coffee.
+877,Translation (Spanish),Variation 18: Translate to Spanish: Have a nice day!
+878,Translation (Spanish),Variation 18: Translate to Spanish: Nice to meet you.
+879,Translation (Spanish),Variation 18: Translate to Spanish: Where is the hotel?
+880,Translation (Spanish),Variation 18: Translate to Spanish: Can you help me?
+881,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+882,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+883,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+884,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+885,Sentiment Analysis,"Variation 18: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+886,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+887,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+888,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Waste of money.
+889,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+890,Sentiment Analysis,Variation 18: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+891,Arithmetic,Variation 18: Solve this math problem: What is 5 plus 7?
+892,Arithmetic,Variation 18: Solve this math problem: What is 12 minus 4?
+893,Arithmetic,Variation 18: Solve this math problem: What is 3 times 6?
+894,Arithmetic,Variation 18: Solve this math problem: What is 20 divided by 4?
+895,Arithmetic,Variation 18: Solve this math problem: What is 15 plus 15?
+896,Arithmetic,Variation 18: Solve this math problem: What is 50 minus 25?
+897,Arithmetic,Variation 18: Solve this math problem: What is 8 times 7?
+898,Arithmetic,Variation 18: Solve this math problem: What is 100 divided by 10?
+899,Arithmetic,Variation 18: Solve this math problem: What is 9 plus 14?
+900,Arithmetic,Variation 18: Solve this math problem: What is 45 minus 9?
+901,Factual Q&A,Variation 19: Answer the following question: What is the capital of France?
+902,Factual Q&A,Variation 19: Answer the following question: What is the capital of Germany?
+903,Factual Q&A,Variation 19: Answer the following question: What is the capital of Japan?
+904,Factual Q&A,Variation 19: Answer the following question: What is the capital of Italy?
+905,Factual Q&A,Variation 19: Answer the following question: What is the capital of Spain?
+906,Factual Q&A,Variation 19: Answer the following question: What is the capital of Canada?
+907,Factual Q&A,Variation 19: Answer the following question: What is the capital of Australia?
+908,Factual Q&A,Variation 19: Answer the following question: What is the capital of Brazil?
+909,Factual Q&A,Variation 19: Answer the following question: What is the capital of India?
+910,Factual Q&A,Variation 19: Answer the following question: What is the capital of China?
+911,Factual Q&A,Variation 19: Answer the following question: What is the capital of Mexico?
+912,Factual Q&A,Variation 19: Answer the following question: What is the capital of Egypt?
+913,Factual Q&A,Variation 19: Answer the following question: What is the capital of South Africa?
+914,Factual Q&A,Variation 19: Answer the following question: What is the capital of Russia?
+915,Factual Q&A,Variation 19: Answer the following question: What is the capital of South Korea?
+916,Factual Q&A,Variation 19: Answer the following question: What is the capital of Argentina?
+917,Factual Q&A,Variation 19: Answer the following question: What is the capital of Netherlands?
+918,Factual Q&A,Variation 19: Answer the following question: What is the capital of Turkey?
+919,Factual Q&A,Variation 19: Answer the following question: What is the capital of Sweden?
+920,Factual Q&A,Variation 19: Answer the following question: What is the capital of Norway?
+921,Translation (French),"Variation 19: Translate to French: Hello, how are you?"
+922,Translation (French),Variation 19: Translate to French: Thank you very much.
+923,Translation (French),Variation 19: Translate to French: Where is the train station?
+924,Translation (French),"Variation 19: Translate to French: Good morning, friend."
+925,Translation (French),Variation 19: Translate to French: What time is it?
+926,Translation (French),Variation 19: Translate to French: I would like a coffee.
+927,Translation (French),Variation 19: Translate to French: Have a nice day!
+928,Translation (French),Variation 19: Translate to French: Nice to meet you.
+929,Translation (French),Variation 19: Translate to French: Where is the hotel?
+930,Translation (French),Variation 19: Translate to French: Can you help me?
+931,Translation (Spanish),"Variation 19: Translate to Spanish: Hello, how are you?"
+932,Translation (Spanish),Variation 19: Translate to Spanish: Thank you very much.
+933,Translation (Spanish),Variation 19: Translate to Spanish: Where is the train station?
+934,Translation (Spanish),"Variation 19: Translate to Spanish: Good morning, friend."
+935,Translation (Spanish),Variation 19: Translate to Spanish: What time is it?
+936,Translation (Spanish),Variation 19: Translate to Spanish: I would like a coffee.
+937,Translation (Spanish),Variation 19: Translate to Spanish: Have a nice day!
+938,Translation (Spanish),Variation 19: Translate to Spanish: Nice to meet you.
+939,Translation (Spanish),Variation 19: Translate to Spanish: Where is the hotel?
+940,Translation (Spanish),Variation 19: Translate to Spanish: Can you help me?
+941,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The food was cold and arrived late.
+942,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: I absolutely love this new phone, the camera is incredible!"
+943,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: It was okay, nothing special."
+944,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: Terrible customer service, I want a refund."
+945,Sentiment Analysis,"Variation 19: Classify the sentiment of this review as positive or negative: Highly recommended, fantastic product!"
+946,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The battery life is horrible.
+947,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Exceeded my expectations!
+948,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Waste of money.
+949,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: Very fast shipping and works great.
+950,Sentiment Analysis,Variation 19: Classify the sentiment of this review as positive or negative: The product arrived damaged.
+951,Arithmetic,Variation 20: Solve this math problem: What is 5 plus 7?
+952,Arithmetic,Variation 20: Solve this math problem: What is 12 minus 4?
+953,Arithmetic,Variation 20: Solve this math problem: What is 3 times 6?
+954,Arithmetic,Variation 20: Solve this math problem: What is 20 divided by 4?
+955,Arithmetic,Variation 20: Solve this math problem: What is 15 plus 15?
+956,Arithmetic,Variation 20: Solve this math problem: What is 50 minus 25?
+957,Arithmetic,Variation 20: Solve this math problem: What is 8 times 7?
+958,Arithmetic,Variation 20: Solve this math problem: What is 100 divided by 10?
+959,Arithmetic,Variation 20: Solve this math problem: What is 9 plus 14?
+960,Arithmetic,Variation 20: Solve this math problem: What is 45 minus 9?
+961,Factual Q&A,Variation 20: Answer the following question: What is the capital of France?
+962,Factual Q&A,Variation 20: Answer the following question: What is the capital of Germany?
+963,Factual Q&A,Variation 20: Answer the following question: What is the capital of Japan?
+964,Factual Q&A,Variation 20: Answer the following question: What is the capital of Italy?
+965,Factual Q&A,Variation 20: Answer the following question: What is the capital of Spain?
+966,Factual Q&A,Variation 20: Answer the following question: What is the capital of Canada?
+967,Factual Q&A,Variation 20: Answer the following question: What is the capital of Australia?
+968,Factual Q&A,Variation 20: Answer the following question: What is the capital of Brazil?
+969,Factual Q&A,Variation 20: Answer the following question: What is the capital of India?
+970,Factual Q&A,Variation 20: Answer the following question: What is the capital of China?
+971,Factual Q&A,Variation 20: Answer the following question: What is the capital of Mexico?
+972,Factual Q&A,Variation 20: Answer the following question: What is the capital of Egypt?
+973,Factual Q&A,Variation 20: Answer the following question: What is the capital of South Africa?
+974,Factual Q&A,Variation 20: Answer the following question: What is the capital of Russia?
+975,Factual Q&A,Variation 20: Answer the following question: What is the capital of South Korea?
+976,Factual Q&A,Variation 20: Answer the following question: What is the capital of Argentina?
+977,Factual Q&A,Variation 20: Answer the following question: What is the capital of Netherlands?
+978,Factual Q&A,Variation 20: Answer the following question: What is the capital of Turkey?
+979,Factual Q&A,Variation 20: Answer the following question: What is the capital of Sweden?
+980,Factual Q&A,Variation 20: Answer the following question: What is the capital of Norway?
+981,Translation (French),"Variation 20: Translate to French: Hello, how are you?"
+982,Translation (French),Variation 20: Translate to French: Thank you very much.
+983,Translation (French),Variation 20: Translate to French: Where is the train station?
+984,Translation (French),"Variation 20: Translate to French: Good morning, friend."
+985,Translation (French),Variation 20: Translate to French: What time is it?
+986,Translation (French),Variation 20: Translate to French: I would like a coffee.
+987,Translation (French),Variation 20: Translate to French: Have a nice day!
+988,Translation (French),Variation 20: Translate to French: Nice to meet you.
+989,Translation (French),Variation 20: Translate to French: Where is the hotel?
+990,Translation (French),Variation 20: Translate to French: Can you help me?
+991,Translation (Spanish),"Variation 20: Translate to Spanish: Hello, how are you?"
+992,Translation (Spanish),Variation 20: Translate to Spanish: Thank you very much.
+993,Translation (Spanish),Variation 20: Translate to Spanish: Where is the train station?
+994,Translation (Spanish),"Variation 20: Translate to Spanish: Good morning, friend."
+995,Translation (Spanish),Variation 20: Translate to Spanish: What time is it?
+996,Translation (Spanish),Variation 20: Translate to Spanish: I would like a coffee.
+997,Translation (Spanish),Variation 20: Translate to Spanish: Have a nice day!
+998,Translation (Spanish),Variation 20: Translate to Spanish: Nice to meet you.
+999,Translation (Spanish),Variation 20: Translate to Spanish: Where is the hotel?
+1000,Translation (Spanish),Variation 20: Translate to Spanish: Can you help me?

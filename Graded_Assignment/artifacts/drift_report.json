@@ -1,0 +1,80 @@
+{
+  "timestamp_utc": "2026-11-22T10:27:21.816563+00:00",
+  "reference_artifact": "artifacts/train_reference.parquet",
+  "reference_sample_size": 10000,
+  "production_sample_size": 10000,
+  "thresholds": {
+    "psi_warning": 0.1,
+    "psi_critical_retrain": 0.25,
+    "ks_stat_threshold": 0.1,
+    "ks_alpha": 0.01
+  },
+  "overall_action": "TRIGGER_RETRAINING",
+  "critical_features": [
+    "V12",
+    "hour_sin",
+    "hour_cos"
+  ],
+  "warning_features": [
+    "V17",
+    "V4"
+  ],
+  "feature_metrics": [
+    {
+      "feature": "Amount",
+      "psi": 0.0512,
+      "ks_statistic": 0.0951,
+      "ks_pvalue": 9.2458e-40,
+      "status": "OK (Within Bounds)"
+    },
+    {
+      "feature": "V14",
+      "psi": 0.0661,
+      "ks_statistic": 0.0909,
+      "ks_pvalue": 2.3352e-36,
+      "status": "OK (Within Bounds)"
+    },
+    {
+      "feature": "V17",
+      "psi": 0.0521,
+      "ks_statistic": 0.1006,
+      "ks_pvalue": 1.8908e-44,
+      "status": "WARNING (Investigate Shift)"
+    },
+    {
+      "feature": "V12",
+      "psi": 0.296,
+      "ks_statistic": 0.1249,
+      "ks_pvalue": 2.3834e-68,
+      "status": "CRITICAL_DRIFT (Trigger Retraining)"
+    },
+    {
+      "feature": "V10",
+      "psi": 0.0351,
+      "ks_statistic": 0.0579,
+      "ks_pvalue": 5.4235e-15,
+      "status": "OK (Within Bounds)"
+    },
+    {
+      "feature": "V4",
+      "psi": 0.1638,
+      "ks_statistic": 0.1556,
+      "ks_pvalue": 5.3615e-106,
+      "status": "WARNING (Investigate Shift)"
+    },
+    {
+      "feature": "hour_sin",
+      "psi": 9.1826,
+      "ks_statistic": 0.4776,
+      "ks_pvalue": 0.0,
+      "status": "CRITICAL_DRIFT (Trigger Retraining)"
+    },
+    {
+      "feature": "hour_cos",
+      "psi": 10.6592,
+      "ks_statistic": 0.8785,
+      "ks_pvalue": 0.0,
+      "status": "CRITICAL_DRIFT (Trigger Retraining)"
+    }
+  ]
+}

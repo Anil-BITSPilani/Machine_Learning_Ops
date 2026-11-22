@@ -1,0 +1,9 @@
+parameters:
+  model_type: LinearRegression
+  learning_rate: 0.01 # Example hyperparameter
+
+data:
+  path: data/training_data.csv
+
+model:
+  path: models/

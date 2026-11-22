@@ -1,0 +1,7 @@
+{
+    "model": "ResNet-18",
+    "framework": "PyTorch",
+    "size_mb": 44.67,
+    "avg_latency_ms": 6.72,
+    "p95_latency_ms": 6.8
+}

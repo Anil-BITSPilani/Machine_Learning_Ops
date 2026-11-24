@@ -1,0 +1,30 @@
+{
+  "overall_status": "FAIL",
+  "group_metrics": {
+    "Group_A": {
+      "selection_rate": 0.5407,
+      "tpr": 0.787
+    },
+    "Group_B": {
+      "selection_rate": 0.5234,
+      "tpr": 0.8911
+    }
+  },
+  "checks": {
+    "disparate_impact_ratio": {
+      "value": 0.968,
+      "threshold": ">= 0.8",
+      "passed": true
+    },
+    "demographic_parity_diff": {
+      "value": 0.0173,
+      "threshold": "<= 0.1",
+      "passed": true
+    },
+    "equal_opportunity_diff": {
+      "value": 0.1041,
+      "threshold": "<= 0.1",
+      "passed": false
+    }
+  }
+}
